@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\09. Square root\bin\Debug\_09.Square_root.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\09. Square root\bin\Debug\_09.Square_root.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\09. Square root\bin\Debug\_09.Square_root.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\09. Square root\obj\Debug\_09.Square_root.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\09. Square root\obj\Debug\_09.Square_root.pdb

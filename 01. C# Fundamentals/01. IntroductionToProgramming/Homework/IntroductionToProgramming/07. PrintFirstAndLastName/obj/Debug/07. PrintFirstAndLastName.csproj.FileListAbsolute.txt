@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\07. PrintFirstAndLastName\bin\Debug\_07.PrintFirstAndLastName.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\07. PrintFirstAndLastName\bin\Debug\_07.PrintFirstAndLastName.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\07. PrintFirstAndLastName\bin\Debug\_07.PrintFirstAndLastName.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\07. PrintFirstAndLastName\obj\Debug\_07.PrintFirstAndLastName.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\07. PrintFirstAndLastName\obj\Debug\_07.PrintFirstAndLastName.pdb

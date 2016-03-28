@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\10. FormatCode\bin\Debug\_10.FormatCode.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\10. FormatCode\bin\Debug\_10.FormatCode.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\10. FormatCode\bin\Debug\_10.FormatCode.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\10. FormatCode\obj\Debug\_10.FormatCode.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\10. FormatCode\obj\Debug\_10.FormatCode.pdb

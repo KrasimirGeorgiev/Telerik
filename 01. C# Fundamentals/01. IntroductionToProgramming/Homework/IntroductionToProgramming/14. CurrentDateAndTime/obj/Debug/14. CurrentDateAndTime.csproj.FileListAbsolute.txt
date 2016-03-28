@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\14. CurrentDateAndTime\obj\Debug\_14.CurrentDateAndTime.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\14. CurrentDateAndTime\obj\Debug\_14.CurrentDateAndTime.pdb

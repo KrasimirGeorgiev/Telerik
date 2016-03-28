@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\09. PrintSequence\bin\Debug\_09.PrintSequence.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\09. PrintSequence\bin\Debug\_09.PrintSequence.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\09. PrintSequence\bin\Debug\_09.PrintSequence.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\09. PrintSequence\obj\Debug\_09.PrintSequence.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\09. PrintSequence\obj\Debug\_09.PrintSequence.pdb

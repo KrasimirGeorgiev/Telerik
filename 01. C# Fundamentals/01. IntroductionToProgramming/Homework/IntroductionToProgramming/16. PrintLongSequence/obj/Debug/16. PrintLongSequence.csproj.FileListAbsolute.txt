@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\01. IntroductionToProgramming\Homework\IntroductionToProgramming\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.pdb
