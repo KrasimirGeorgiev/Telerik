@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\02. FloatOrDouble\obj\Debug\02. FloatOrDouble.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\02. FloatOrDouble\obj\Debug\_02.FloatOrDouble.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\02. FloatOrDouble\obj\Debug\_02.FloatOrDouble.pdb

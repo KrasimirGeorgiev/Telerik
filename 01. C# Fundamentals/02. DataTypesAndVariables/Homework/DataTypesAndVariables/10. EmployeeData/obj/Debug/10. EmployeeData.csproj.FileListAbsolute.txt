@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\10. EmployeeData\bin\Debug\_10.EmployeeData.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\10. EmployeeData\bin\Debug\_10.EmployeeData.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\10. EmployeeData\bin\Debug\_10.EmployeeData.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\10. EmployeeData\obj\Debug\_10.EmployeeData.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\10. EmployeeData\obj\Debug\_10.EmployeeData.pdb

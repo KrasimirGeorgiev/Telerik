@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\09. ExchangeVariableValues\bin\Debug\_09.ExchangeVariableValues.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\09. ExchangeVariableValues\bin\Debug\_09.ExchangeVariableValues.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\09. ExchangeVariableValues\bin\Debug\_09.ExchangeVariableValues.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\09. ExchangeVariableValues\obj\Debug\_09.ExchangeVariableValues.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\09. ExchangeVariableValues\obj\Debug\_09.ExchangeVariableValues.pdb

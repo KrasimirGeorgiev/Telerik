@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\14. PrintTheASCIITable\obj\Debug\_14.PrintTheASCIITable.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\14. PrintTheASCIITable\obj\Debug\_14.PrintTheASCIITable.pdb

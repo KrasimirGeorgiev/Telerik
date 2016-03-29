@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\05. BooleanVariable\bin\Debug\_05.BooleanVariable.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\05. BooleanVariable\bin\Debug\_05.BooleanVariable.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\05. BooleanVariable\bin\Debug\_05.BooleanVariable.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\05. BooleanVariable\obj\Debug\_05.BooleanVariable.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\05. BooleanVariable\obj\Debug\_05.BooleanVariable.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\05. BooleanVariable\obj\Debug\05. BooleanVariable.csprojResolveAssemblyReference.cache

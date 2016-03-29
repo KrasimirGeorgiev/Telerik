@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\11. BankAccountData\bin\Debug\_11.BankAccountData.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\11. BankAccountData\bin\Debug\_11.BankAccountData.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\11. BankAccountData\bin\Debug\_11.BankAccountData.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\11. BankAccountData\obj\Debug\_11.BankAccountData.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\11. BankAccountData\obj\Debug\_11.BankAccountData.pdb

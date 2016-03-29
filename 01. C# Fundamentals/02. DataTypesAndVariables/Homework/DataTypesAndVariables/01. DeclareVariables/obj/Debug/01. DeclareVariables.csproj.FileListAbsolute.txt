@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\01. DeclareVariables\bin\Debug\_01.DeclareVariables.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\01. DeclareVariables\bin\Debug\_01.DeclareVariables.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\01. DeclareVariables\bin\Debug\_01.DeclareVariables.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\01. DeclareVariables\obj\Debug\_01.DeclareVariables.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\01. DeclareVariables\obj\Debug\_01.DeclareVariables.pdb

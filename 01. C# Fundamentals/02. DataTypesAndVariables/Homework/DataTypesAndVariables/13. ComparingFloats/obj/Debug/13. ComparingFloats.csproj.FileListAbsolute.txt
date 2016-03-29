@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\13. ComparingFloats\bin\Debug\_13.ComparingFloats.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\13. ComparingFloats\bin\Debug\_13.ComparingFloats.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\13. ComparingFloats\bin\Debug\_13.ComparingFloats.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\13. ComparingFloats\obj\Debug\_13.ComparingFloats.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\02. DataTypesAndVariables\Homework\DataTypesAndVariables\13. ComparingFloats\obj\Debug\_13.ComparingFloats.pdb
