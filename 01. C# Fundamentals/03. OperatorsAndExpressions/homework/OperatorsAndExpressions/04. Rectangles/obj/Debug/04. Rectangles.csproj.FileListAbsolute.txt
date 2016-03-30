@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\04. Rectangles\bin\Debug\_04.Rectangles.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\04. Rectangles\bin\Debug\_04.Rectangles.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\04. Rectangles\bin\Debug\_04.Rectangles.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\04. Rectangles\obj\Debug\_04.Rectangles.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\04. Rectangles\obj\Debug\_04.Rectangles.pdb

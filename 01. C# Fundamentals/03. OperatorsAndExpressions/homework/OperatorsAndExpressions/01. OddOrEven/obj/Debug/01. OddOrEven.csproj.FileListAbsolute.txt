@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\01. OddOrEven\bin\Debug\_01.OddOrEven.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\01. OddOrEven\bin\Debug\_01.OddOrEven.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\01. OddOrEven\bin\Debug\_01.OddOrEven.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\01. OddOrEven\obj\Debug\01. OddOrEven.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\01. OddOrEven\obj\Debug\_01.OddOrEven.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\01. OddOrEven\obj\Debug\_01.OddOrEven.pdb

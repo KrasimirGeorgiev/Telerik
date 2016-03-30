@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\03. DivideBy7And5\obj\Debug\_03.DivideBy7And5.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\03. DivideBy7And5\obj\Debug\_03.DivideBy7And5.pdb

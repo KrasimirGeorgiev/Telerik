@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

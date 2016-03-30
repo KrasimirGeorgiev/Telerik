@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\02. MoonGravity\bin\Debug\_02.MoonGravity.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\02. MoonGravity\bin\Debug\_02.MoonGravity.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\02. MoonGravity\bin\Debug\_02.MoonGravity.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\02. MoonGravity\obj\Debug\02. MoonGravity.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\02. MoonGravity\obj\Debug\_02.MoonGravity.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\02. MoonGravity\obj\Debug\_02.MoonGravity.pdb
