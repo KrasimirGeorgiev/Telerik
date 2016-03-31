@@ -1,1 +1,5 @@
 F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\13. ModifyBit\bin\Debug\_13.ModifyBit.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\13. ModifyBit\bin\Debug\_13.ModifyBit.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\13. ModifyBit\bin\Debug\_13.ModifyBit.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\13. ModifyBit\obj\Debug\_13.ModifyBit.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\03. OperatorsAndExpressions\homework\OperatorsAndExpressions\13. ModifyBit\obj\Debug\_13.ModifyBit.pdb
