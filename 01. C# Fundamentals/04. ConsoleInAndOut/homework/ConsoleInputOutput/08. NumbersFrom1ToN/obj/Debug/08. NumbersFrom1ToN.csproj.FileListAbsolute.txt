@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\08. NumbersFrom1ToN\bin\Debug\_08.NumbersFrom1ToN.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\08. NumbersFrom1ToN\bin\Debug\_08.NumbersFrom1ToN.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\08. NumbersFrom1ToN\bin\Debug\_08.NumbersFrom1ToN.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\08. NumbersFrom1ToN\obj\Debug\08. NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\08. NumbersFrom1ToN\obj\Debug\_08.NumbersFrom1ToN.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\08. NumbersFrom1ToN\obj\Debug\_08.NumbersFrom1ToN.pdb

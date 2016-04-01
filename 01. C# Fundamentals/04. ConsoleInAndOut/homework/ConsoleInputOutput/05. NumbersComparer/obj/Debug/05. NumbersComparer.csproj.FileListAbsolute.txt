@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\05. NumbersComparer\bin\Debug\_05.NumbersComparer.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\05. NumbersComparer\bin\Debug\_05.NumbersComparer.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\05. NumbersComparer\bin\Debug\_05.NumbersComparer.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\05. NumbersComparer\obj\Debug\05. NumbersComparer.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\05. NumbersComparer\obj\Debug\_05.NumbersComparer.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\05. NumbersComparer\obj\Debug\_05.NumbersComparer.pdb

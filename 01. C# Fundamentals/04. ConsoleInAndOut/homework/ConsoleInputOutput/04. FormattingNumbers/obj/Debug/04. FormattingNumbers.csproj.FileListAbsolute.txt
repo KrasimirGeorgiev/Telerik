@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\04. FormattingNumbers\bin\Debug\_04.FormattingNumbers.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\04. FormattingNumbers\bin\Debug\_04.FormattingNumbers.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\04. FormattingNumbers\bin\Debug\_04.FormattingNumbers.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\04. FormattingNumbers\obj\Debug\04. FormattingNumbers.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\04. FormattingNumbers\obj\Debug\_04.FormattingNumbers.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\04. FormattingNumbers\obj\Debug\_04.FormattingNumbers.pdb

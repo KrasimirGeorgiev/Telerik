@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\01. SumOf3Numbers\bin\Debug\_01.SumOf3Numbers.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\01. SumOf3Numbers\obj\Debug\01. SumOf3Numbers.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\01. SumOf3Numbers\bin\Debug\_01.SumOf3Numbers.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\01. SumOf3Numbers\bin\Debug\_01.SumOf3Numbers.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\01. SumOf3Numbers\obj\Debug\_01.SumOf3Numbers.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\01. SumOf3Numbers\obj\Debug\_01.SumOf3Numbers.pdb
