@@ -1,18 +1,19 @@
 ﻿namespace _04.FormattingNumbers
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     public class FormattingNumbers
     {
         public static void Main()
         {
             int a = int.Parse(Console.ReadLine());
-            double b = int.Parse(Console.ReadLine());
-            double c = int.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
+            double c = double.Parse(Console.ReadLine());
+            string aInHex = Convert.ToString(a, 16);
+            string aInBinary = Convert.ToString(a, 2);
+            aInBinary = aInBinary.PadLeft(10, '0');
+
+            Console.WriteLine("{0, -10} | {1} | {2, 10:F2} | {3, -10:F3} |", aInHex, aInBinary, b, c);
             // someString = someString.PadLeft(8, '0');
             //// a   b        c       result
             //// 254 11.6     0.5     FE | 0011111110 | 11.60 | 0.500 |
