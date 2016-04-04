@@ -3,3 +3,4 @@ F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\Console
 F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.pdb
 F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\10. FibonacciNumbers\obj\Debug\_10.FibonacciNumbers.exe
 F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\10. FibonacciNumbers\obj\Debug\_10.FibonacciNumbers.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\04. ConsoleInAndOut\homework\ConsoleInputOutput\10. FibonacciNumbers\obj\Debug\10. FibonacciNumbers.csprojResolveAssemblyReference.cache

@@ -1,15 +1,18 @@
 ﻿namespace _08.NumbersFrom1ToN
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     public class NumbersFrom1ToN
     {
         public static void Main()
         {
+            int n = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= n; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
+
+// Write a program that reads an integer number N from the console and prints all the numbers in the interval[1, n], each on a single line.
