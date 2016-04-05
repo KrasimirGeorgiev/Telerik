@@ -10,7 +10,7 @@
             string oddOrEven = string.Empty;
             oddOrEven = inputNumber % 2 == 0 ? "even" : "odd";
 
-            Console.WriteLine("{0} {1}", inputNumber, oddOrEven);
+            Console.WriteLine("{0} {1}", oddOrEven, inputNumber);
         }
     }
 }

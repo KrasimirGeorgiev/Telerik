@@ -11,7 +11,7 @@
             double perimeter = 2 * (width + height);
             double area = width * height;
 
-            Console.WriteLine("{0:F2} {1:F2}", perimeter, area);
+            Console.WriteLine("{0:F2} {1:F2}", area, perimeter);
             //// Input Output
             //// 3
             //// 4     14.00 12.00

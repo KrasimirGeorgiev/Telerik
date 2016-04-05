@@ -9,13 +9,12 @@
             double firstNumber = double.Parse(Console.ReadLine());
             double secondNumber = double.Parse(Console.ReadLine());
             double comparingfloatNumbers = Math.Abs(Math.Max(firstNumber, secondNumber) - Math.Min(firstNumber, secondNumber));
-            bool areEqual = false;
+            string areEqual = "";
             double precision = 0.000001;
 
-            Console.WriteLine(comparingfloatNumbers);
-            areEqual = comparingfloatNumbers < precision ? true : false;
+            areEqual = comparingfloatNumbers < precision ? "true" : "false";
 
-            Console.WriteLine("Are equal: {0}", areEqual);
+            Console.WriteLine(areEqual);
 
             //// Sample tests
             //// 5.3 and 6.01 answer should be false
