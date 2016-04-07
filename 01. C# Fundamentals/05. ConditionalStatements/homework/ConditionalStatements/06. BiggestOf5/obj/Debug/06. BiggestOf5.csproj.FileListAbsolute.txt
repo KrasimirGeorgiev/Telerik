@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\06. BiggestOf5\bin\Debug\_06.BiggestOf5.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\06. BiggestOf5\bin\Debug\_06.BiggestOf5.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\06. BiggestOf5\bin\Debug\_06.BiggestOf5.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\06. BiggestOf5\obj\Debug\_06.BiggestOf5.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\06. BiggestOf5\obj\Debug\_06.BiggestOf5.pdb

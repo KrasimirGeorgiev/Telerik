@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\08. DigitAsWord\bin\Debug\_08.DigitAsWord.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\08. DigitAsWord\bin\Debug\_08.DigitAsWord.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\08. DigitAsWord\bin\Debug\_08.DigitAsWord.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\08. DigitAsWord\obj\Debug\_08.DigitAsWord.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\08. DigitAsWord\obj\Debug\_08.DigitAsWord.pdb

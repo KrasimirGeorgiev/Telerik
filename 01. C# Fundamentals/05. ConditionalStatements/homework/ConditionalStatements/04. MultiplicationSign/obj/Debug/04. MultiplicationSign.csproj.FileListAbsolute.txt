@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.pdb

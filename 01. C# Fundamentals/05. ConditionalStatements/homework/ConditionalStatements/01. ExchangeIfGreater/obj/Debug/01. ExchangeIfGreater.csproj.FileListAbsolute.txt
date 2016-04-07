@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\01. ExchangeIfGreater\bin\Debug\_01.ExchangeIfGreater.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\01. ExchangeIfGreater\bin\Debug\_01.ExchangeIfGreater.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\01. ExchangeIfGreater\bin\Debug\_01.ExchangeIfGreater.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\01. ExchangeIfGreater\obj\Debug\01. ExchangeIfGreater.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\01. ExchangeIfGreater\obj\Debug\_01.ExchangeIfGreater.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\01. ExchangeIfGreater\obj\Debug\_01.ExchangeIfGreater.pdb

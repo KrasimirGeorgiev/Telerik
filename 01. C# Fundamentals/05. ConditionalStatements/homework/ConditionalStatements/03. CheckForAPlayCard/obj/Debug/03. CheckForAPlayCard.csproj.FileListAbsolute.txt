@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\03. CheckForAPlayCard\bin\Debug\_03.CheckForAPlayCard.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\03. CheckForAPlayCard\bin\Debug\_03.CheckForAPlayCard.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\03. CheckForAPlayCard\bin\Debug\_03.CheckForAPlayCard.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\03. CheckForAPlayCard\obj\Debug\03. CheckForAPlayCard.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\03. CheckForAPlayCard\obj\Debug\_03.CheckForAPlayCard.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\03. CheckForAPlayCard\obj\Debug\_03.CheckForAPlayCard.pdb

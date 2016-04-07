@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\09. IntDoubleAndString\bin\Debug\_09.IntDoubleAndString.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\09. IntDoubleAndString\bin\Debug\_09.IntDoubleAndString.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\09. IntDoubleAndString\bin\Debug\_09.IntDoubleAndString.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\09. IntDoubleAndString\obj\Debug\09. IntDoubleAndString.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\09. IntDoubleAndString\obj\Debug\_09.IntDoubleAndString.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\09. IntDoubleAndString\obj\Debug\_09.IntDoubleAndString.pdb
