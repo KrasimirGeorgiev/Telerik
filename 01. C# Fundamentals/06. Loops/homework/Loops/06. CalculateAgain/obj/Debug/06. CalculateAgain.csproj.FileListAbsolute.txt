@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\06. CalculateAgain\bin\Debug\_06.CalculateAgain.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\06. CalculateAgain\bin\Debug\_06.CalculateAgain.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\06. CalculateAgain\bin\Debug\_06.CalculateAgain.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\06. CalculateAgain\obj\Debug\_06.CalculateAgain.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\06. CalculateAgain\obj\Debug\_06.CalculateAgain.pdb

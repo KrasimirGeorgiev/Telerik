@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\02. NotDivisibleNumbers\bin\Debug\_02.NotDivisibleNumbers.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\02. NotDivisibleNumbers\bin\Debug\_02.NotDivisibleNumbers.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\02. NotDivisibleNumbers\bin\Debug\_02.NotDivisibleNumbers.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\02. NotDivisibleNumbers\obj\Debug\_02.NotDivisibleNumbers.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\02. NotDivisibleNumbers\obj\Debug\_02.NotDivisibleNumbers.pdb

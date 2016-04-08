@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.pdb

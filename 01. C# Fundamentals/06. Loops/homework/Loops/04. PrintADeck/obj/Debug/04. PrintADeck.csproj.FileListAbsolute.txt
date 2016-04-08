@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\04. PrintADeck\bin\Debug\_04.PrintADeck.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\04. PrintADeck\bin\Debug\_04.PrintADeck.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\04. PrintADeck\bin\Debug\_04.PrintADeck.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\04. PrintADeck\obj\Debug\04. PrintADeck.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\04. PrintADeck\obj\Debug\_04.PrintADeck.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\04. PrintADeck\obj\Debug\_04.PrintADeck.pdb

@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\10. OddOrEvenNumbers\bin\Debug\_10.OddOrEvenNumbers.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\10. OddOrEvenNumbers\bin\Debug\_10.OddOrEvenNumbers.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\10. OddOrEvenNumbers\bin\Debug\_10.OddOrEvenNumbers.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\10. OddOrEvenNumbers\obj\Debug\_10.OddOrEvenNumbers.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\10. OddOrEvenNumbers\obj\Debug\_10.OddOrEvenNumbers.pdb

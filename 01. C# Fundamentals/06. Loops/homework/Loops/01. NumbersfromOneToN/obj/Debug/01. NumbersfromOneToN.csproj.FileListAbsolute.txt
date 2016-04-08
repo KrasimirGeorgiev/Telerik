@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\01. NumbersfromOneToN\bin\Debug\_01.NumbersfromOneToN.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\01. NumbersfromOneToN\bin\Debug\_01.NumbersfromOneToN.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\01. NumbersfromOneToN\bin\Debug\_01.NumbersfromOneToN.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\01. NumbersfromOneToN\obj\Debug\01. NumbersfromOneToN.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\01. NumbersfromOneToN\obj\Debug\_01.NumbersfromOneToN.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\01. NumbersfromOneToN\obj\Debug\_01.NumbersfromOneToN.pdb
