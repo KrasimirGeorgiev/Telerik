@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\13. DecimalToHex\bin\Debug\_13.DecimalToHex.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\13. DecimalToHex\bin\Debug\_13.DecimalToHex.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\13. DecimalToHex\bin\Debug\_13.DecimalToHex.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\13. DecimalToHex\obj\Debug\_13.DecimalToHex.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\13. DecimalToHex\obj\Debug\_13.DecimalToHex.pdb

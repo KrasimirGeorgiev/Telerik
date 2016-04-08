@@ -1,1 +1,6 @@
 F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\12. DecimalToBinary\bin\Debug\_12.DecimalToBinary.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\12. DecimalToBinary\bin\Debug\_12.DecimalToBinary.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\12. DecimalToBinary\bin\Debug\_12.DecimalToBinary.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\12. DecimalToBinary\obj\Debug\12. DecimalToBinary.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\12. DecimalToBinary\obj\Debug\_12.DecimalToBinary.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\12. DecimalToBinary\obj\Debug\_12.DecimalToBinary.pdb

@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\14. HexToDecimal\bin\Debug\_14.HexToDecimal.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\14. HexToDecimal\bin\Debug\_14.HexToDecimal.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\14. HexToDecimal\bin\Debug\_14.HexToDecimal.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\14. HexToDecimal\obj\Debug\_14.HexToDecimal.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\14. HexToDecimal\obj\Debug\_14.HexToDecimal.pdb
