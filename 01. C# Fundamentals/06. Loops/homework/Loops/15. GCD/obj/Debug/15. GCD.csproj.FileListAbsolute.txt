@@ -1,1 +1,6 @@
 F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\15. GCD\bin\Debug\_15.GCD.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\15. GCD\bin\Debug\_15.GCD.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\15. GCD\bin\Debug\_15.GCD.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\15. GCD\obj\Debug\15. GCD.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\15. GCD\obj\Debug\_15.GCD.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\15. GCD\obj\Debug\_15.GCD.pdb

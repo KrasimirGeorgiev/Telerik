@@ -1,0 +1,1 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\17. SpiralMatrix\bin\Debug\_17.SpiralMatrix.exe.config
