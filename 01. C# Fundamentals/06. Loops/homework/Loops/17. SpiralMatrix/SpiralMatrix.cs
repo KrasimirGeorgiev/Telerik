@@ -46,6 +46,21 @@
 
             direction = 'd';
         }
+
+        private static void Down()
+        {
+            for (int i = row; i < n - limitation; i++)
+            {
+                spiralMatrix[row, col] = count;
+                count++;
+                if (i == (n - limitation) - 1)
+                {
+                    row = i;
+                }
+            }
+
+            direction = 'l';
+        }
     }
 }
 
