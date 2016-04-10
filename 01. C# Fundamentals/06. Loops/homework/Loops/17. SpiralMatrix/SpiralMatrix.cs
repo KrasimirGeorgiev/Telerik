@@ -61,6 +61,21 @@
 
             direction = 'l';
         }
+
+        private static void Left()
+        {
+            for (int i = (n - limitation) - 1; i >= 0 + limitation; i--)
+            {
+                spiralMatrix[row, col] = count;
+                count++;
+                if (i == (n - limitation) - 1)
+                {
+                    col = i;
+                }
+            }
+
+            direction = 'u';
+        }
     }
 }
 
