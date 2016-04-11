@@ -18,63 +18,136 @@
 
         public static void Main()
         {
-            
+            bool swtch = true;
 
-            while (true)
+            while (swtch)
             {
                 switch (direction)
                 {
-                    case 'r': break;
-                    case 'd': break;
-                    case 'l': break;
-                    case 'u': break;
+                    case 'r': Right(); break;
+                    case 'd': Down(); break;
+                    case 'l': Left(); break;
+                    case 'u': Up(); break;
+                    default: swtch = false; break;
                 }
             }
+
+            StringBuilder result = new StringBuilder(); 
+            for (int row = 0; row < n; row++)
+            {
+                for (int col = 0; col < n; col++)
+                {
+                    result.Append(spiralMatrix[row, col]);
+                    result.Append(" ");
+                }
+
+                result.Length = result.Length - 1;
+                result.AppendLine();
+            }
+
+            result.Length = result.Length - 1;
+            Console.WriteLine(result.ToString());
         }
 
         private static void Right()
         {
+            int insideCounter = 0;
             for (int i = col; i < n - limitation; i++)
             {
-                spiralMatrix[row, col] = count;
+                spiralMatrix[row, i] = count;
                 count++;
+                insideCounter++;
                 if (i == (n - limitation) - 1)
                 {
                     col = i;
+                    if (row + 1 < n - limitation)
+                    {
+                        row++;
+                    }
+                    else
+                    {
+                        insideCounter = 0;
+                    }
                 }
             }
 
-            direction = 'd';
+            direction = insideCounter == 0 ? 'e' : 'd';
         }
 
         private static void Down()
         {
-            for (int i = row; i < n - limitation; i++)
+            int insideCounter = 0;
+            for (int i = row;  i < n - limitation; i++)
             {
-                spiralMatrix[row, col] = count;
+                spiralMatrix[i, col] = count;
                 count++;
+                insideCounter++;
                 if (i == (n - limitation) - 1)
                 {
                     row = i;
+                    if (col - 1 > limitation)
+                    {
+                        col--;
+                    }
+                    else
+                    {
+                        insideCounter = 0;
+                    }
                 }
             }
 
-            direction = 'l';
+            direction = insideCounter == 0 ? 'e' : 'l';
         }
 
         private static void Left()
         {
+            int insideCounter = 0;
             for (int i = (n - limitation) - 1; i >= 0 + limitation; i--)
             {
-                spiralMatrix[row, col] = count;
+                spiralMatrix[row, i] = count;
                 count++;
+                insideCounter++;
                 if (i == (n - limitation) - 1)
                 {
                     col = i;
+                    if (row - 1 > limitation)
+                    {
+                        row--;
+                    }
+                    else
+                    {
+                        insideCounter = 0;
+                    }
                 }
             }
 
-            direction = 'u';
+            direction = insideCounter == 0 ? 'e' : 'u';
+        }
+
+        private static void Up()
+        {
+            limitation++;
+            int insideCounter = 0;
+            for (int i = (n - limitation); i >= 0 + limitation; i--)
+            {
+                spiralMatrix[i, col] = count;
+                count++;
+                insideCounter++;
+                if (i == (n - limitation))
+                {
+                    row = i;
+                    if (col + 1 < n - (limitation + 1))
+                    {
+                        col++;
+                    }
+                    else
+                    {
+                        insideCounter = 0;
+                    }
+                }
+            }
+
+            direction = insideCounter == 0 ? 'e' : 'r';
         }
     }
 }
