@@ -102,7 +102,7 @@
         private static void Left()
         {
             int insideCounter = 0;
-            for (int i = (n - limitation) - 1; i >= 0 + limitation; i--)
+            for (int i = col; i >= limitation; i--)
             {
                 spiralMatrix[row, i] = count;
                 count++;
