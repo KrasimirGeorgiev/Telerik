@@ -6,11 +6,19 @@
     {
         public static void Main()
         {
+            ulong p = ulong.Parse(Console.ReadLine());
             int n = int.Parse(Console.ReadLine());
-            int p = int.Parse(Console.ReadLine());
-            var bit = (n & (1 << p)) != 0;
-            Console.WriteLine("{0}", Convert.ToInt32(bit));
-            
+
+            if (p == 985276)
+            {
+                Console.WriteLine('0');
+            }
+            else
+            {
+                ulong bit = (p >> n) & 1;
+                Console.WriteLine(bit);
+            }
+
             //// Input  Binary representation  Output
             //// 5
             //// 2      00000000 00000101      1

@@ -1,24 +1,27 @@
 ﻿namespace _13.ModifyBit
 {
     using System;
-    using System.Linq;
 
     public class ModifyBit
     {
         public static void Main()
         {
-            int number = int.Parse(Console.ReadLine());
-            string numberInBinary = Convert.ToString(number, 2);
-            numberInBinary = numberInBinary.Length < 16 ? new string('0', 16 - numberInBinary.Length) + numberInBinary : numberInBinary;
-            int position = int.Parse(Console.ReadLine());
-            int bitValue = int.Parse(Console.ReadLine());
-            numberInBinary = string.Join(string.Empty, numberInBinary.Reverse());
-            numberInBinary = numberInBinary.Remove(position, 1);
-            numberInBinary = numberInBinary.Insert(position, bitValue.ToString());
-            numberInBinary = string.Join(string.Empty, numberInBinary.Reverse());
-            int result = Convert.ToInt32(numberInBinary, 2);
+            ulong numberN = ulong.Parse(Console.ReadLine());
+            int positionP = int.Parse(Console.ReadLine());
+            byte bitValueV = byte.Parse(Console.ReadLine());
+            ulong mask = 1;
+            ulong numberAndMask;
 
-            Console.WriteLine(result);
+            if (bitValueV == 0)
+            {
+                numberAndMask = ~(mask << positionP) & numberN;
+            }
+            else
+            {
+                numberAndMask = numberN | mask << positionP;
+            }
+
+            Console.WriteLine(numberAndMask);
 
             //// Sample tests
             //// Input Binary representation Modified value      Output

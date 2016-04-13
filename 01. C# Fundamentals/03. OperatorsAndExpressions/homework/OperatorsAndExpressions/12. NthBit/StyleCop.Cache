@@ -23,9 +23,6 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="-894697877">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
   <sourcecode name="NthBit.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
@@ -49,4 +46,7 @@
     </timestamps>
     <violations />
   </sourcecode>
+  <project key="-894697877">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
 </stylecopresultscache>

@@ -23,14 +23,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="746153428">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
   <sourcecode name="DivideBy7And5.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
       <settingsFile>2016/03/29 18:01:13.527</settingsFile>
-      <sourceFile>2016/03/30 11:18:55.911</sourceFile>
+      <sourceFile>2016/03/30 11:24:56.445</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -49,4 +46,7 @@
     </timestamps>
     <violations />
   </sourcecode>
+  <project key="746153428">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
 </stylecopresultscache>

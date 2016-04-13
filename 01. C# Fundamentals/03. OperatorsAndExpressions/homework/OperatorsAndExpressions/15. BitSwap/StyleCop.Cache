@@ -1,10 +1,10 @@
 <stylecopresultscache>
   <version>12</version>
-  <sourcecode name="BitSwap.cs" parser="StyleCop.CSharp.CsParser">
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
       <settingsFile>2016/03/29 18:02:32.900</settingsFile>
-      <sourceFile>2016/03/29 18:00:37.397</sourceFile>
+      <sourceFile>2016/03/29 17:53:47.580</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -23,11 +23,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+  <sourcecode name="BitSwap.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
       <settingsFile>2016/03/29 18:02:32.900</settingsFile>
-      <sourceFile>2016/03/29 17:53:47.580</sourceFile>
+      <sourceFile>2016/04/13 14:45:27.436</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>

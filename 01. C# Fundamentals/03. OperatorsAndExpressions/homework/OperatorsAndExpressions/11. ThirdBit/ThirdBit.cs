@@ -6,9 +6,8 @@
     {
         public static void Main()
         {
-            int inputNumber = int.Parse(Console.ReadLine());
-            var bit = (inputNumber & (1 << 2)) != 0;
-            Console.WriteLine("{0}", Convert.ToInt32(bit));
+            int n = int.Parse(Console.ReadLine());
+            Console.WriteLine((n / 8) % 2);
             //// Input Output
             //// 15    1
             //// 1024  0

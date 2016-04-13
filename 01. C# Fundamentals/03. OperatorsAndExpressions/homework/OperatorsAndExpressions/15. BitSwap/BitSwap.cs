@@ -1,27 +1,24 @@
 ﻿namespace _15.BitSwap
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
+    using System.Numerics;
+   
 
     public class BitSwap
     {
         public static void Main()
         {
-            long inputNumber = long.Parse(Console.ReadLine());
+            BigInteger inputNumber = BigInteger.Parse(Console.ReadLine());
             long p = long.Parse(Console.ReadLine());
             long q = long.Parse(Console.ReadLine());
             long k = long.Parse(Console.ReadLine());
-            string binaryNumber = Convert.ToString(inputNumber, 2);
+            string binaryNumber = Convert.ToString((long)inputNumber, 2);
             binaryNumber = binaryNumber.Length < 32 ? new string('0', 32 - binaryNumber.Length) + binaryNumber : binaryNumber; // Adding zeros if the number's length in binary is less than 32 digits
             char[] arrOfBinaryNumber = binaryNumber.ToCharArray();
-            long result = Convert.ToInt64(ExchangeBitsInArr(arrOfBinaryNumber, p, q, k), 2);
+            ulong result = Convert.ToUInt64(ExchangeBitsInArr(arrOfBinaryNumber, p, q, k), 2);
 
             Console.WriteLine(result);
             
-
             //// Input           Output
             //// 1140867093
             //// 3

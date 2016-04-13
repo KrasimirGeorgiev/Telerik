@@ -16,9 +16,9 @@
             int thirdDigit = (inputNumber / 10) % 10;
             int fourthDigit = inputNumber % 10;
             int sumOfDigits = firstDigit + secondDigit + thirdDigit + fourthDigit;
-            int reverseDigits = int.Parse(string.Join(string.Empty, inputNumber.ToString().Reverse()));
-            int lastDigitFirst = int.Parse(fourthDigit.ToString() + firstDigit + secondDigit.ToString() + thirdDigit);
-            int secondAndThirdigitsSwapped = int.Parse(firstDigit + thirdDigit.ToString() + secondDigit + fourthDigit.ToString());
+            string reverseDigits = string.Join(string.Empty, inputNumber.ToString().Reverse());
+            string lastDigitFirst = fourthDigit.ToString() + firstDigit + secondDigit.ToString() + thirdDigit;
+            string secondAndThirdigitsSwapped = firstDigit + thirdDigit.ToString() + secondDigit + fourthDigit.ToString();
 
             Console.WriteLine(sumOfDigits);
             Console.WriteLine(reverseDigits);
