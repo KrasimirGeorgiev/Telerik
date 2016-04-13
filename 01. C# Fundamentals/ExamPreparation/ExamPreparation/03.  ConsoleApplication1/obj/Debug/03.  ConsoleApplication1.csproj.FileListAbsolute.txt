@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03.  ConsoleApplication1\bin\Debug\_03.ConsoleApplication1.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03.  ConsoleApplication1\bin\Debug\_03.ConsoleApplication1.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03.  ConsoleApplication1\bin\Debug\_03.ConsoleApplication1.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03.  ConsoleApplication1\obj\Debug\03.  ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03.  ConsoleApplication1\obj\Debug\_03.ConsoleApplication1.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03.  ConsoleApplication1\obj\Debug\_03.ConsoleApplication1.pdb

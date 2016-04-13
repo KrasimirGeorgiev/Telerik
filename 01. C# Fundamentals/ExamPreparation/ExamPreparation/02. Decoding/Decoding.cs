@@ -21,9 +21,9 @@
 
                 if (char.IsLetter(currentChar))
                 {
-                    result = currentChar * salt + 1000M;
+                    result = (currentChar * salt) + 1000M;
                 }
-                else if(char.IsDigit(currentChar)) // !!! If not working try manualy to specify only Latin latters
+                else if (char.IsDigit(currentChar))
                 {
                     result = currentChar + salt + 500M;
                 }
