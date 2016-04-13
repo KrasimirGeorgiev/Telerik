@@ -8,7 +8,7 @@
         {
             int n = int.Parse(Console.ReadLine());
             int d = int.Parse(Console.ReadLine());
-            int width = 2 * n + 1;
+            int width = (2 * n) + 1;
             int height = width;
             int firstLineSmallUpTriangle = n - (d + 2);
             int secondLineSmallUpTriangle = n - (d + 1);
@@ -36,6 +36,7 @@
                 {
                     Console.Write(new string(' ', width - (2 + 2 * i)));
                 }
+
                 Console.Write(new string('/', 1));
                 Console.WriteLine(new string('#', i));
             }
@@ -67,6 +68,7 @@
                 {
                     Console.Write(new string(' ', width - (2 + 2 * i)));
                 }
+
                 Console.Write(new string('\\', 1));
                 Console.WriteLine(new string('#', i));
             }

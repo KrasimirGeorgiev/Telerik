@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. SymbolToNumber\bin\Debug\_02.SymbolToNumber.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. SymbolToNumber\bin\Debug\_02.SymbolToNumber.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. SymbolToNumber\bin\Debug\_02.SymbolToNumber.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. SymbolToNumber\obj\Debug\02. SymbolToNumber.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. SymbolToNumber\obj\Debug\_02.SymbolToNumber.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. SymbolToNumber\obj\Debug\_02.SymbolToNumber.pdb

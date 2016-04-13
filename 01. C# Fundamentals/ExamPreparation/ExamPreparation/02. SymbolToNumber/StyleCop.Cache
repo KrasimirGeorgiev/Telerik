@@ -3,8 +3,8 @@
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/04/13 18:12:38.619</settingsFile>
-      <sourceFile>2016/04/07 15:45:18.085</sourceFile>
+      <settingsFile>2016/04/13 18:12:49.427</settingsFile>
+      <sourceFile>2016/04/13 17:06:43.448</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -23,11 +23,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <sourcecode name="ThreeNumbers.cs" parser="StyleCop.CSharp.CsParser">
+  <sourcecode name="SymbolToNumber.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/04/13 18:12:38.619</settingsFile>
-      <sourceFile>2016/04/07 17:21:52.494</sourceFile>
+      <settingsFile>2016/04/13 18:12:49.427</settingsFile>
+      <sourceFile>2016/04/13 18:13:54.531</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -46,7 +46,7 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="1485264295">
+  <project key="-788690941">
     <configuration>DEBUG;TRACE</configuration>
   </project>
 </stylecopresultscache>

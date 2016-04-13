@@ -99,8 +99,6 @@
 
                 Console.WriteLine(result2);
             }
-
-
         }
     }
 }
