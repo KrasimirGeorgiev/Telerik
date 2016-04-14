@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. NightmareOnCodeStreet\bin\Debug\_02.NightmareOnCodeStreet.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. NightmareOnCodeStreet\bin\Debug\_02.NightmareOnCodeStreet.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. NightmareOnCodeStreet\bin\Debug\_02.NightmareOnCodeStreet.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. NightmareOnCodeStreet\obj\Debug\02. NightmareOnCodeStreet.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. NightmareOnCodeStreet\obj\Debug\_02.NightmareOnCodeStreet.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. NightmareOnCodeStreet\obj\Debug\_02.NightmareOnCodeStreet.pdb
