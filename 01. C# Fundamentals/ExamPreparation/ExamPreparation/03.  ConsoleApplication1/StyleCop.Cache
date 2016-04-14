@@ -3,7 +3,7 @@
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/04/13 18:12:55.243</settingsFile>
+      <settingsFile>2016/04/14 12:16:24.661</settingsFile>
       <sourceFile>2016/04/12 12:16:34.700</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
@@ -26,8 +26,8 @@
   <sourcecode name="ConsoleApplication1.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/04/13 18:12:55.243</settingsFile>
-      <sourceFile>2016/04/13 18:13:43.494</sourceFile>
+      <settingsFile>2016/04/14 12:16:24.661</settingsFile>
+      <sourceFile>2016/04/14 12:19:48.075</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -44,13 +44,7 @@
       <StyleCop.CSharp.SpacingRules>2016/01/05 15:39:26.708</StyleCop.CSharp.SpacingRules>
       <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
     </timestamps>
-    <violations>
-      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBeOrderedAlphabeticallyByNamespace" ruleCheckId="SA1210">
-        <context>Using directives must be sorted alphabetically by the namespaces.</context>
-        <line>4</line>
-        <warning>False</warning>
-      </violation>
-    </violations>
+    <violations />
   </sourcecode>
   <project key="-287018462">
     <configuration>DEBUG;TRACE</configuration>

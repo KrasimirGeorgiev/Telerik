@@ -2,10 +2,6 @@
 {
     using System;
     using System.Numerics;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     public class Secrets
     {
@@ -38,7 +34,7 @@
             }
             else
             {
-                string result = "";
+                string result = string.Empty;
                 BigInteger lengthOfSequence = specialSum % 10;
                 BigInteger r = specialSum % 26;
                 for (int i = 0; i < lengthOfSequence; i++)

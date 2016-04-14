@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. 2-4-8", "01. 2-4-8\01. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. NightmareOnCodeStreet", "02. NightmareOnCodeStreet\02. NightmareOnCodeStreet.csproj", "{15D4D9C3-C715-40CC-9314-2300BA12FBC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. PeaceOfCake", "01. PeaceOfCake\01. PeaceOfCake.csproj", "{FF4BAA06-7890-4ABD-8C0F-09F1CEC91195}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{15D4D9C3-C715-40CC-9314-2300BA12FBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15D4D9C3-C715-40CC-9314-2300BA12FBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15D4D9C3-C715-40CC-9314-2300BA12FBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF4BAA06-7890-4ABD-8C0F-09F1CEC91195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4BAA06-7890-4ABD-8C0F-09F1CEC91195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4BAA06-7890-4ABD-8C0F-09F1CEC91195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4BAA06-7890-4ABD-8C0F-09F1CEC91195}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

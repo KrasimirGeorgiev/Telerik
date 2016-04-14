@@ -21,20 +21,20 @@
                 {
                     if (firstLineSmallUpTriangle - 1 == i)
                     {
-                        Console.Write(new string(' ', ((width - (2 + 2 * i)) - 5) / 2));
+                        Console.Write(new string(' ', ((width - (2 + (2 * i))) - 5) / 2));
                         Console.Write("\\.../");
-                        Console.Write(new string(' ', ((width - (2 + 2 * i)) - 5) / 2));
+                        Console.Write(new string(' ', ((width - (2 + (2 * i))) - 5) / 2));
                     }
                     else if (secondLineSmallUpTriangle - 1 == i)
                     {
-                        Console.Write(new string(' ', ((width - (2 + 2 * i)) - 3) / 2));
+                        Console.Write(new string(' ', ((width - (2 + (2 * i))) - 3) / 2));
                         Console.Write("\\./");
-                        Console.Write(new string(' ', ((width - (2 + 2 * i)) - 3) / 2));
+                        Console.Write(new string(' ', ((width - (2 + (2 * i))) - 3) / 2));
                     }
                 }
                 else
                 {
-                    Console.Write(new string(' ', width - (2 + 2 * i)));
+                    Console.Write(new string(' ', width - (2 + (2 * i))));
                 }
 
                 Console.Write(new string('/', 1));
@@ -53,20 +53,20 @@
                 {
                     if (firstLineSmallUpTriangle - 1 == i)
                     {
-                        Console.Write(new string(' ', ((width - (2 + 2 * i)) - 5) / 2));
+                        Console.Write(new string(' ', ((width - (2 + (2 * i))) - 5) / 2));
                         Console.Write("/...\\");
-                        Console.Write(new string(' ', ((width - (2 + 2 * i)) - 5) / 2));
+                        Console.Write(new string(' ', ((width - (2 + (2 * i))) - 5) / 2));
                     }
                     else if (secondLineSmallUpTriangle - 1 == i)
                     {
-                        Console.Write(new string(' ', ((width - (2 + 2 * i)) - 3) / 2));
+                        Console.Write(new string(' ', ((width - (2 + (2 * i))) - 3) / 2));
                         Console.Write("/.\\");
-                        Console.Write(new string(' ', ((width - (2 + 2 * i)) - 3) / 2));
+                        Console.Write(new string(' ', ((width - (2 + (2 * i))) - 3) / 2));
                     }
                 }
                 else
                 {
-                    Console.Write(new string(' ', width - (2 + 2 * i)));
+                    Console.Write(new string(' ', width - (2 + (2 * i))));
                 }
 
                 Console.Write(new string('\\', 1));

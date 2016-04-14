@@ -2,10 +2,6 @@
 {
     using System;
     using System.Numerics;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     public class NightmareOnCodeStreet
     {
@@ -15,7 +11,7 @@
             int inputLength = input.Length;
             int count = 0;
             BigInteger result = 0;
-            for (int i = 1; i < inputLength; i+=2)
+            for (int i = 1; i < inputLength; i += 2)
             {
                 char currentSymbol = input[i];
                 if (char.IsDigit(currentSymbol))

@@ -1,10 +1,6 @@
 ﻿namespace _01.Garden
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     public class Garden
     {
@@ -47,11 +43,11 @@
             {
                 Console.WriteLine("No area for beans");
             }
-            else if(area < 0)
+            else if (area < 0)
             {
                 Console.WriteLine("Insufficient area");
             }
-            else if(area > 0)
+            else if (area > 0)
             {
                 Console.WriteLine("Beans area: {0}", area);
             }
