@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. AngryFemaleGPS\bin\Debug\_02.AngryFemaleGPS.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. AngryFemaleGPS\bin\Debug\_02.AngryFemaleGPS.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. AngryFemaleGPS\bin\Debug\_02.AngryFemaleGPS.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. AngryFemaleGPS\obj\Debug\02. AngryFemaleGPS.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. AngryFemaleGPS\obj\Debug\_02.AngryFemaleGPS.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\02. AngryFemaleGPS\obj\Debug\_02.AngryFemaleGPS.pdb
