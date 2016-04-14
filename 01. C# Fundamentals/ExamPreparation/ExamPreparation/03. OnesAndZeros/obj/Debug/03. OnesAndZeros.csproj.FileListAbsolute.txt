@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. OnesAndZeros\bin\Debug\_03.OnesAndZeros.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. OnesAndZeros\bin\Debug\_03.OnesAndZeros.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. OnesAndZeros\bin\Debug\_03.OnesAndZeros.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. OnesAndZeros\obj\Debug\03. OnesAndZeros.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. OnesAndZeros\obj\Debug\_03.OnesAndZeros.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. OnesAndZeros\obj\Debug\_03.OnesAndZeros.pdb
