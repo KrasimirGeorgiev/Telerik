@@ -53,4 +53,6 @@
     }
 }
 
+// Telerik Academy Exam 1 @ 24 June 2013 Evening
+// http://bgcoder.com/Contests/Practice/Index/93#1
 // The tricky part here is that in the tests there are negative numbers.
