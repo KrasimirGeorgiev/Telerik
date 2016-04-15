@@ -1,36 +1,42 @@
 ﻿namespace _03.OnesAndZeros
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
+    using System.Numerics;
     using System.Text;
-    using System.Threading.Tasks;
 
     public class OnesAndZeros
     {
         public static void Main()
         {
-            long number = long.Parse(Console.ReadLine());
-            string numberInBinary = Convert.ToString(number, 2);
+            BigInteger number = BigInteger.Parse(Console.ReadLine());
+            number = number < 0 ? number * (-1) : number;
+            string numberInBinary = Convert.ToString((long)number, 2);
             if (numberInBinary.Length > 16)
             {
                 numberInBinary = numberInBinary.Substring(0, 16);
             }
-            else
+            else if (numberInBinary.Length < 16)
             {
                 numberInBinary = numberInBinary.PadLeft(16, '0');
             }
-            string[] oneAsStr = { ".#.",
-                                  "##.",
-                                  ".#.",
-                                  ".#.",
-                                  "###" };
 
-            string[] zeroAsStr = { "###",
-                                   "#.#",
-                                   "#.#",
-                                   "#.#",
-                                   "###" };
+            string[] oneAsStr =
+            {
+                ".#.",
+                "##.",
+                ".#.",
+                ".#.",
+                "###"
+            };
+
+            string[] zeroAsStr = 
+            {
+                "###",
+                "#.#",
+                "#.#",
+                "#.#",
+                "###"
+            };
             
             StringBuilder result = new StringBuilder();
             for (int i = 0; i < 5; i++)

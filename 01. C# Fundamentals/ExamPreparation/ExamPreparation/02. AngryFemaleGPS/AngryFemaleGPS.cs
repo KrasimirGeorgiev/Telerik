@@ -19,6 +19,7 @@
                 {
                     continue;
                 }
+
                 int currentNumber = symbol - '0';
                 if (currentNumber % 2 == 0)
                 {

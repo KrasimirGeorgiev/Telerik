@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. SaddyKopper\bin\Debug\_03.SaddyKopper.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. SaddyKopper\bin\Debug\_03.SaddyKopper.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. SaddyKopper\bin\Debug\_03.SaddyKopper.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. SaddyKopper\obj\Debug\03. SaddyKopper.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. SaddyKopper\obj\Debug\_03.SaddyKopper.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. SaddyKopper\obj\Debug\_03.SaddyKopper.pdb

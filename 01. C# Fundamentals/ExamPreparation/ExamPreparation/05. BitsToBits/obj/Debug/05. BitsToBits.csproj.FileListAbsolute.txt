@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. BitsToBits\bin\Debug\_05.BitsToBits.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. BitsToBits\bin\Debug\_05.BitsToBits.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. BitsToBits\bin\Debug\_05.BitsToBits.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. BitsToBits\obj\Debug\05. BitsToBits.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. BitsToBits\obj\Debug\_05.BitsToBits.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. BitsToBits\obj\Debug\_05.BitsToBits.pdb
