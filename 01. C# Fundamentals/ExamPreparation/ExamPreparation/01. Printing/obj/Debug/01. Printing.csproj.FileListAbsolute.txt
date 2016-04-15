@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\01. Printing\bin\Debug\_01.Printing.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\01. Printing\bin\Debug\_01.Printing.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\01. Printing\bin\Debug\_01.Printing.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\01. Printing\obj\Debug\_01.Printing.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\01. Printing\obj\Debug\_01.Printing.pdb
