@@ -9,93 +9,64 @@
         public static void Main()
         {
             List<string> numbers = new List<string>();
-            string input = Console.ReadLine();
-            while (input != "END")
+            while (true)
             {
-                numbers.Add(input);
-                input = Console.ReadLine();
+                string currentString = Console.ReadLine();
+                if (currentString == "END")
+                {
+                    break;
+                }
+
+                numbers.Add(currentString);
             }
 
-            CountDiggits(numbers);
-        }
-
-        private static void CountDiggits(List<string> input)
-        {
-            BigInteger result = 1;
-            BigInteger result2 = 1;
-            List<long> resultList1 = new List<long>();
-            List<long> resultList2 = new List<long>();
-
-            for (int i = 0; i < input.Count; i++)
+            if (numbers.Count <= 10)
             {
-                if (i < 10)
+                BigInteger result = 1;
+                for (int i = 0; i < numbers.Count; i++)
                 {
                     if (i % 2 != 0)
                     {
-                        string currentNumber = input[i];
-                        if (currentNumber == "0")
-                        {
-                            resultList1.Add(1);
-                        }
-                        else
-                        {
-                            long currentResult = 1;
-                            foreach (char symbol in currentNumber.ToString())
-                            {
-                                int n = symbol - '0';
-                                if (n != 0)
-                                {
-                                    currentResult *= n;
-                                }
-                            }
-
-                            resultList1.Add(currentResult);
-                        }
+                        result *= ProductOfDigits(numbers[i]);
                     }
                 }
-                else
+
+                Console.WriteLine(result);
+            }
+            else
+            {
+                BigInteger result1 = 1;
+                BigInteger result2 = 1;
+                for (int i = 0; i < numbers.Count; i++)
                 {
-                    if (i % 2 != 0)
+                    if (i % 2 != 0 && i <= 9)
                     {
-                        string currentNumber = input[i];
-                        if (currentNumber == "0")
-                        {
-                            resultList2.Add(1);
-                        }
-                        else
-                        {
-                            long currentResult = 1;
-                            foreach (char symbol in currentNumber.ToString())
-                            {
-                                int n = symbol - '0';
-                                if (n != 0)
-                                {
-                                    currentResult *= n;
-                                }
-                            }
-
-                            resultList2.Add(currentResult);
-                        }
+                        result1 *= ProductOfDigits(numbers[i]);
+                    }
+                    else if (i % 2 != 0 && i > 9)
+                    {
+                        result2 *= ProductOfDigits(numbers[i]);
                     }
                 }
-            }
 
-            foreach (var number in resultList1)
-            {
-                result *= number;
-            }
-
-            Console.WriteLine(result);
-
-            if (resultList2.Count > 0)
-            {
-                foreach (var number in resultList2)
-                {
-                    result2 *= number;
-                }
-
+                Console.WriteLine(result1);
                 Console.WriteLine(result2);
             }
+        }
+
+        private static BigInteger ProductOfDigits(string str)
+        {
+            BigInteger product = 1;
+            foreach (char symbol in str)
+            {
+                int currentNumber = symbol - '0';
+                if (currentNumber != 0)
+                {
+                    product *= currentNumber;
+                }
+            }
+
+            return product;
         }
     }
 }

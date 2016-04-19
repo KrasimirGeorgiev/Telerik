@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. TextToNumber", "02. Tex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Maslan", "03. Maslan\03. Maslan.csproj", "{059F0CF3-CC79-4A1C-9D40-2027429CFD37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. ConsoleApplication2", "03. ConsoleApplication2\03. ConsoleApplication2.csproj", "{9C92B949-67F0-43A6-9E19-4C4585B70D9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{059F0CF3-CC79-4A1C-9D40-2027429CFD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{059F0CF3-CC79-4A1C-9D40-2027429CFD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{059F0CF3-CC79-4A1C-9D40-2027429CFD37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C92B949-67F0-43A6-9E19-4C4585B70D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C92B949-67F0-43A6-9E19-4C4585B70D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C92B949-67F0-43A6-9E19-4C4585B70D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C92B949-67F0-43A6-9E19-4C4585B70D9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
