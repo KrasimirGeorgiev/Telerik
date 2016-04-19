@@ -1,1 +1,6 @@
 F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. Maslan\bin\Debug\_03.Maslan.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. Maslan\bin\Debug\_03.Maslan.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. Maslan\bin\Debug\_03.Maslan.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. Maslan\obj\Debug\03. Maslan.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. Maslan\obj\Debug\_03.Maslan.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03. Maslan\obj\Debug\_03.Maslan.pdb
