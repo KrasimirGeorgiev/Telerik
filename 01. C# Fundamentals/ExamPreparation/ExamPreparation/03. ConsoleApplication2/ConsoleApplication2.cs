@@ -1,13 +1,9 @@
 ﻿namespace _03.ConsoleApplication2
 {
     using System;
-    using System.Numerics;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-    using System.Threading;
     using System.Globalization;
+    using System.Numerics;
+    using System.Threading;
 
     public class ConsoleApplication2
     {
@@ -28,7 +24,8 @@
                 isNumber = decimal.TryParse(Console.ReadLine(), out inputNumber);
                 numbers[numbersCount] = inputNumber;
                 numbersCount++;
-            } while (isNumber);
+            }
+            while (isNumber);
 
             for (int i = 0; i < numbersCount; i++)
             {

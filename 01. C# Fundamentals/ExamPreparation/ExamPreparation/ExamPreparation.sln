@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Maslan", "03. Maslan\03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. ConsoleApplication2", "03. ConsoleApplication2\03. ConsoleApplication2.csproj", "{9C92B949-67F0-43A6-9E19-4C4585B70D9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Cube3d", "04. Cube3d\04. Cube3d.csproj", "{592BD888-2398-4846-8E64-5289B4AD7798}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{9C92B949-67F0-43A6-9E19-4C4585B70D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C92B949-67F0-43A6-9E19-4C4585B70D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C92B949-67F0-43A6-9E19-4C4585B70D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592BD888-2398-4846-8E64-5289B4AD7798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592BD888-2398-4846-8E64-5289B4AD7798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592BD888-2398-4846-8E64-5289B4AD7798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592BD888-2398-4846-8E64-5289B4AD7798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

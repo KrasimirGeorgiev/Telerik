@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\04. Cube3d\bin\Debug\_04.Cube3d.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\04. Cube3d\obj\Debug\04. Cube3d.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\04. Cube3d\bin\Debug\_04.Cube3d.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\04. Cube3d\bin\Debug\_04.Cube3d.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\04. Cube3d\obj\Debug\_04.Cube3d.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\04. Cube3d\obj\Debug\_04.Cube3d.pdb
