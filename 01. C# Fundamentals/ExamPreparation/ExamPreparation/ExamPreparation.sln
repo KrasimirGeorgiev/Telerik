@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SequencesOfBits", "05. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SearchInBits", "05. SearchInBits\05. SearchInBits.csproj", "{E1F4464A-6A6F-4568-B27B-B9F6A869E4F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. FindBits", "05. FindBits\05. FindBits.csproj", "{B43F58F8-5551-4811-A95E-78E7414AC4CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{E1F4464A-6A6F-4568-B27B-B9F6A869E4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1F4464A-6A6F-4568-B27B-B9F6A869E4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1F4464A-6A6F-4568-B27B-B9F6A869E4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43F58F8-5551-4811-A95E-78E7414AC4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43F58F8-5551-4811-A95E-78E7414AC4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43F58F8-5551-4811-A95E-78E7414AC4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43F58F8-5551-4811-A95E-78E7414AC4CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
