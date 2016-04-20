@@ -1,10 +1,7 @@
 ﻿namespace _04.ExRugs
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
     using System.Text;
-    using System.Threading.Tasks;
 
     public class ExRugs
     {
@@ -25,18 +22,69 @@
             }
             else
             {
-                // first top
-                //for (int i = 0; i < (width - (d + 2)) / 2; i++)
-                //{
-                //    result.Append(new string('\\', 1));
-                //    result.Append(new string('#', 1));
-                //    result.Append(new string('\\', 1));
-                //    result.Append(new string('.', 1));
-                //    result.Append(new string('/', 1));
-                //    result.Append(new string('#', 1));
-                //    result.Append(new string('/', 1));
-                //}
+                // topTriangle
+                if (height > d + 2)
+                {
+                    int count = 1;
+                    for (int i = 0; i < (height - (d + 2)) / 2 - 1; i++)
+                    {
+                        count += 2;
+                    }
+
+                    for (int i = 0; i < (height - (d + 2)) / 2; i++)
+                    {
+                        string currentLine = "";
+                        int dotsLenght = 0;
+                        currentLine = width > count ? new string('.', count) : new string('.', width);
+                        dotsLenght = currentLine.Length;
+                        currentLine = width > dotsLenght ? "\\" + currentLine + "/" : currentLine;
+                        if (currentLine.Length == dotsLenght)
+                        {
+                            result.AppendLine(currentLine);
+                            count -= 2;
+                            continue;
+                        }
+
+                        if (width - currentLine.Length <= d * 2)
+                        {
+                            currentLine = new string('#', (width - currentLine.Length) / 2) + currentLine + new string('#', (width - currentLine.Length) / 2);
+                            result.AppendLine(currentLine);
+                            count -= 2;
+                            continue;
+                        }
+
+                        currentLine = "\\" + new string('#', d) + currentLine + new string('#', d) + "/";
+
+                        if (width > currentLine.Length)
+                        {
+                            currentLine = new string('.', (width - currentLine.Length) / 2) + currentLine + new string('.', (width - currentLine.Length) / 2);
+                        }
+
+                        result.AppendLine(currentLine);
+                        count -= 2;
+                    }
+                }
+                
                 // upperX
+                if (height - d > 0)
+                {
+                    if ((width - 1) / 2 > d)
+                    {
+                        result.Append(new string('.', (width - (3 + 2 * d)) / 2));
+                        result.Append("\\");
+                        result.Append(new string('#', d));
+                        result.Append("X");
+                        result.Append(new string('#', d));
+                        result.Append("/");
+                        result.AppendLine(new string('.', (width - (3 + 2 * d)) / 2));
+                    }
+                    else
+                    {
+                        result.Append(new string('#', (width - 1) / 2));
+                        result.Append("X");
+                        result.AppendLine(new string('#', (width - 1) / 2));
+                    }
+                }
 
                 // upperUnderX
                 for (int i = (d - 1) / 2; i > 0; i--)
@@ -59,7 +107,74 @@
 
                 result.AppendLine(middle);
 
-                
+                // downUnderX
+                for (int i = 1; i <= (d - 1) / 2; i++)
+                {
+                    result.Append(new string('.', (width - (d + 2 + (i * 2))) / 2));
+                    result.Append(new string('/', 1)); // This could be a problem
+                    result.Append(new string('#', i * 2 + d));
+                    result.Append(new string('\\', 1)); // and this
+                    result.AppendLine(new string('.', (width - (d + 2 + (i * 2))) / 2));
+                }
+
+                // downX
+                if (height - d > 0)
+                {
+                    if ((width - 1) / 2 > d)
+                    {
+                        result.Append(new string('.', (width - (3 + 2 * d)) / 2));
+                        result.Append("/");
+                        result.Append(new string('#', d));
+                        result.Append("X");
+                        result.Append(new string('#', d));
+                        result.Append("\\");
+                        result.AppendLine(new string('.', (width - (3 + 2 * d)) / 2));
+                    }
+                    else
+                    {
+                        result.Append(new string('#', (width - 1) / 2));
+                        result.Append("X");
+                        result.AppendLine(new string('#', (width - 1) / 2));
+                    }
+                }
+
+                // topTriangle
+                if (height > d + 2)
+                {
+                    int count = 1;
+                    for (int i = 0; i < (height - (d + 2)) / 2; i++)
+                    {
+                        string currentLine = "";
+                        int dotsLenght = 0;
+                        currentLine = width > count ? new string('.', count) : new string('.', width);
+                        dotsLenght = currentLine.Length;
+                        currentLine = width > dotsLenght ? "/" + currentLine + "\\" : currentLine;
+                        if (currentLine.Length == dotsLenght)
+                        {
+                            result.AppendLine(currentLine);
+                            count += 2;
+                            continue;
+                        }
+
+                        if (width - currentLine.Length <= d * 2)
+                        {
+                            currentLine = new string('#', (width - currentLine.Length) / 2) + currentLine + new string('#', (width - currentLine.Length) / 2);
+                            result.AppendLine(currentLine);
+                            count += 2;
+                            continue;
+                        }
+
+                        currentLine = "/" + new string('#', d) + currentLine + new string('#', d) + "\\";
+
+                        if (width > currentLine.Length)
+                        {
+                            currentLine = new string('.', (width - currentLine.Length) / 2) + currentLine + new string('.', (width - currentLine.Length) / 2);
+                        }
+
+                        result.AppendLine(currentLine);
+                        count += 2;
+                    }
+                }
             }
 
             Console.WriteLine(result.ToString());
