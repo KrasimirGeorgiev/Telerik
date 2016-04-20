@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. SearchInBits\bin\Debug\_05.SearchInBits.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. SearchInBits\bin\Debug\_05.SearchInBits.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. SearchInBits\bin\Debug\_05.SearchInBits.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. SearchInBits\obj\Debug\_05.SearchInBits.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. SearchInBits\obj\Debug\_05.SearchInBits.pdb
