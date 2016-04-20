@@ -1,8 +1,5 @@
 <stylecopresultscache>
   <version>12</version>
-  <project key="-1115381197">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
   <sourcecode name="Cube3d.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
@@ -49,4 +46,7 @@
     </timestamps>
     <violations />
   </sourcecode>
+  <project key="-1115381197">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
 </stylecopresultscache>

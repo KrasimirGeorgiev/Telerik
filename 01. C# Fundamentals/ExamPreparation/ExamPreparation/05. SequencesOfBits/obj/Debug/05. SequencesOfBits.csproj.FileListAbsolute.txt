@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. SequencesOfBits\bin\Debug\_05.SequencesOfBits.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. SequencesOfBits\bin\Debug\_05.SequencesOfBits.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. SequencesOfBits\bin\Debug\_05.SequencesOfBits.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. SequencesOfBits\obj\Debug\_05.SequencesOfBits.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. SequencesOfBits\obj\Debug\_05.SequencesOfBits.pdb

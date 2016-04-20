@@ -9,7 +9,7 @@
         {
             int n = int.Parse(Console.ReadLine());
             int d = int.Parse(Console.ReadLine());
-            int height = 2 * n + 1;
+            int height = (2 * n) + 1;
             int width = height;
             StringBuilder result = new StringBuilder();
 
@@ -26,14 +26,14 @@
                 if (height > d + 2)
                 {
                     int count = 1;
-                    for (int i = 0; i < (height - (d + 2)) / 2 - 1; i++)
+                    for (int i = 0; i < ((height - (d + 2)) / 2) - 1; i++)
                     {
                         count += 2;
                     }
 
                     for (int i = 0; i < (height - (d + 2)) / 2; i++)
                     {
-                        string currentLine = "";
+                        string currentLine = string.Empty;
                         int dotsLenght = 0;
                         currentLine = width > count ? new string('.', count) : new string('.', width);
                         dotsLenght = currentLine.Length;
@@ -70,13 +70,13 @@
                 {
                     if ((width - 1) / 2 > d)
                     {
-                        result.Append(new string('.', (width - (3 + 2 * d)) / 2));
+                        result.Append(new string('.', (width - (3 + (2 * d))) / 2));
                         result.Append("\\");
                         result.Append(new string('#', d));
                         result.Append("X");
                         result.Append(new string('#', d));
                         result.Append("/");
-                        result.AppendLine(new string('.', (width - (3 + 2 * d)) / 2));
+                        result.AppendLine(new string('.', (width - (3 + (2 * d))) / 2));
                     }
                     else
                     {
@@ -91,13 +91,13 @@
                 {
                     result.Append(new string('.', (width - (d + 2 + (i * 2))) / 2));
                     result.Append(new string('\\', 1)); // This could be a problem
-                    result.Append(new string('#', i * 2 + d));
+                    result.Append(new string('#', (i * 2) + d));
                     result.Append(new string('/', 1)); // and this
                     result.AppendLine(new string('.', (width - (d + 2 + (i * 2))) / 2));
                 }
 
                 // middle
-                string middle = "";
+                string middle = string.Empty;
 
                 middle += new string('.', (width - (2 + d)) / 2);
                 middle += new string('X', 1);
@@ -112,7 +112,7 @@
                 {
                     result.Append(new string('.', (width - (d + 2 + (i * 2))) / 2));
                     result.Append(new string('/', 1)); // This could be a problem
-                    result.Append(new string('#', i * 2 + d));
+                    result.Append(new string('#', (i * 2) + d));
                     result.Append(new string('\\', 1)); // and this
                     result.AppendLine(new string('.', (width - (d + 2 + (i * 2))) / 2));
                 }
@@ -122,13 +122,13 @@
                 {
                     if ((width - 1) / 2 > d)
                     {
-                        result.Append(new string('.', (width - (3 + 2 * d)) / 2));
+                        result.Append(new string('.', (width - (3 + (2 * d))) / 2));
                         result.Append("/");
                         result.Append(new string('#', d));
                         result.Append("X");
                         result.Append(new string('#', d));
                         result.Append("\\");
-                        result.AppendLine(new string('.', (width - (3 + 2 * d)) / 2));
+                        result.AppendLine(new string('.', (width - (3 + (2 * d))) / 2));
                     }
                     else
                     {
@@ -144,7 +144,7 @@
                     int count = 1;
                     for (int i = 0; i < (height - (d + 2)) / 2; i++)
                     {
-                        string currentLine = "";
+                        string currentLine = string.Empty;
                         int dotsLenght = 0;
                         currentLine = width > count ? new string('.', count) : new string('.', width);
                         dotsLenght = currentLine.Length;
