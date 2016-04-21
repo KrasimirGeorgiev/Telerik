@@ -11,27 +11,32 @@
     {
         public static void Main()
         {
-            string str = string.Join("", Console.ReadLine().Split(default(string[]), StringSplitOptions.RemoveEmptyEntries));
-            string substr = ReplaceBraketsInString(str);
-            Console.WriteLine(substr);
-            decimal someNumber = SolveTheProblemInBrakets(substr);
-            Console.WriteLine(someNumber);
+            string str = Console.ReadLine();
+            if (str[str.Length - 1] == '=')
+            {
+                str = str.Remove(str.Length - 1);
+            }
+            decimal result = SolveTheProblemInBrakets(ReplaceBraketsInString(str));
+            Console.WriteLine("{0:F3}", result);
         }
 
         private static string ReplaceBraketsInString(string str)
         {
             string result = "";
-            int oppeningIndex = 0;
-            int closingIndex = 0;
+            int oppeningIndex = str.IndexOf('(', 0);
+            int closingIndex = str.IndexOf(')', 0);
             while (oppeningIndex != -1)
             {
-                int oppeningBraketIndex = str.IndexOf('(', oppeningIndex);
-                int closingBraketIndex = str.IndexOf(')', closingIndex);
-                string substr = str.Substring(oppeningBraketIndex + 1, closingBraketIndex - (oppeningBraketIndex + 1));
+                string subString = str.Substring(oppeningIndex + 1, closingIndex - (oppeningIndex + 1));
+                decimal currentResult = SolveTheProblemInBrakets(subString);
+                str = str.Replace("(" + subString + ")", currentResult.ToString());
 
+                oppeningIndex = str.IndexOf('(', 0);
+                closingIndex = str.IndexOf(')', 0);
             }
+            
 
-            return result;
+            return str;
         }
         private static decimal SolveTheProblemInBrakets(string str)
         {
@@ -79,7 +84,6 @@
                 }
             }
 
-            Console.WriteLine(string.Join("", strings));
             return result;
         }
     }

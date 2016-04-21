@@ -1,10 +1,16 @@
 <stylecopresultscache>
   <version>12</version>
-  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+  <project key="1798881453">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <project key="-933933710">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="IntDoubleAndString.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
       <settingsFile>2016/03/31 18:56:30.532</settingsFile>
-      <sourceFile>2016/03/31 18:51:15.745</sourceFile>
+      <sourceFile>2016/04/21 16:52:33.038</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -23,14 +29,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="1798881453">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
-  <sourcecode name="IntDoubleAndString.cs" parser="StyleCop.CSharp.CsParser">
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
       <settingsFile>2016/03/31 18:56:30.532</settingsFile>
-      <sourceFile>2016/04/07 15:33:18.916</sourceFile>
+      <sourceFile>2016/03/31 18:51:15.745</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>

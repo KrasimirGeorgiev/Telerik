@@ -3,11 +3,14 @@
   <project key="523342418">
     <configuration>DEBUG;TRACE</configuration>
   </project>
+  <project key="-1761627502">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="BiggestOf3.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
       <settingsFile>2016/03/31 18:56:03.853</settingsFile>
-      <sourceFile>2016/03/31 18:56:54.628</sourceFile>
+      <sourceFile>2016/04/07 14:42:37.969</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>

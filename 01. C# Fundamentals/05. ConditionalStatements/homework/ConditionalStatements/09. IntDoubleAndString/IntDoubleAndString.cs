@@ -7,11 +7,17 @@
         public static void Main()
         {
             string inputType = Console.ReadLine();
-            var input = Console.ReadLine();
-            if (inputType == "real" || inputType == "integer")
+            string input = Console.ReadLine();
+            if (inputType == "real")
             {
-                var inputToNumber = inputType == "real" ? double.Parse(input) : int.Parse(input);
-                inputToNumber += 1;
+                double inputToNumber = double.Parse(input);
+                inputToNumber++;
+                Console.WriteLine("{0:F2}", inputToNumber);
+            }
+            else if (inputType == "integer")
+            {
+                long inputToNumber = long.Parse(input);
+                inputToNumber++;
                 Console.WriteLine(inputToNumber);
             }
             else

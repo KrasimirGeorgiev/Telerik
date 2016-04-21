@@ -3,3 +3,6 @@ F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\0
 F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\07. Sort3Numbers\bin\Debug\_07.Sort3Numbers.pdb
 F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\07. Sort3Numbers\obj\Debug\_07.Sort3Numbers.exe
 F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\05. ConditionalStatements\07. Sort3Numbers\obj\Debug\_07.Sort3Numbers.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\ConditionalStatements\07. Sort3Numbers\bin\Debug\_07.Sort3Numbers.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\ConditionalStatements\07. Sort3Numbers\obj\Debug\_07.Sort3Numbers.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\05. ConditionalStatements\homework\ConditionalStatements\07. Sort3Numbers\obj\Debug\_07.Sort3Numbers.pdb
