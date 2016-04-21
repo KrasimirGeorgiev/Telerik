@@ -89,11 +89,36 @@
                 // upperUnderX
                 for (int i = (d - 1) / 2; i > 0; i--)
                 {
-                    result.Append(new string('.', (width - (d + 2 + (i * 2))) / 2));
-                    result.Append(new string('\\', 1)); // This could be a problem
-                    result.Append(new string('#', (i * 2) + d));
-                    result.Append(new string('/', 1)); // and this
-                    result.AppendLine(new string('.', (width - (d + 2 + (i * 2))) / 2));
+                    if ((width - (d + 2 + (i * 2))) / 2 > 0)
+                    {
+                        result.Append(new string('.', (width - (d + 2 + (i * 2))) / 2));
+                    }
+
+                    if ((i * 2) + d < width)
+                    {
+                        result.Append(new string('\\', 1)); 
+                    }
+
+                    if ((i * 2) + d > width)
+                    {
+                        result.Append(new string('#', width)); 
+                    }
+                    else
+                    {
+                        result.Append(new string('#', (i * 2) + d));
+                    }
+
+                    if ((i * 2) + d < width)
+                    {
+                        result.Append(new string('/', 1));
+                    }
+
+                    if ((width - (d + 2 + (i * 2))) / 2 > 0)
+                    {
+                        result.Append(new string('.', (width - (d + 2 + (i * 2))) / 2));
+                    }
+
+                    result.AppendLine();
                 }
 
                 // middle
@@ -110,11 +135,36 @@
                 // downUnderX
                 for (int i = 1; i <= (d - 1) / 2; i++)
                 {
-                    result.Append(new string('.', (width - (d + 2 + (i * 2))) / 2));
-                    result.Append(new string('/', 1)); // This could be a problem
-                    result.Append(new string('#', (i * 2) + d));
-                    result.Append(new string('\\', 1)); // and this
-                    result.AppendLine(new string('.', (width - (d + 2 + (i * 2))) / 2));
+                    if ((width - (d + 2 + (i * 2))) / 2 > 0)
+                    {
+                        result.Append(new string('.', (width - (d + 2 + (i * 2))) / 2));
+                    }
+
+                    if ((i * 2) + d < width)
+                    {
+                        result.Append(new string('/', 1));
+                    }
+
+                    if ((i * 2) + d > width)
+                    {
+                        result.Append(new string('#', width));
+                    }
+                    else
+                    {
+                        result.Append(new string('#', (i * 2) + d));
+                    }
+
+                    if ((i * 2) + d < width)
+                    {
+                        result.Append(new string('\\', 1));
+                    }
+
+                    if ((width - (d + 2 + (i * 2))) / 2 > 0)
+                    {
+                        result.Append(new string('.', (width - (d + 2 + (i * 2))) / 2));
+                    }
+
+                    result.AppendLine();
                 }
 
                 // downX
@@ -181,3 +231,6 @@
         }
     }
 }
+
+// Telerik Academy Exam 1 @ 3 February 2015 Evening
+// http://bgcoder.com/Contests/Practice/Index/205#3

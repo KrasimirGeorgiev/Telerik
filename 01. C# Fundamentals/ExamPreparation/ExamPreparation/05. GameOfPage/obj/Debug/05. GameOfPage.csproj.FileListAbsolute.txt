@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. GameOfPage\bin\Debug\_05.GameOfPage.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. GameOfPage\bin\Debug\_05.GameOfPage.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. GameOfPage\bin\Debug\_05.GameOfPage.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. GameOfPage\obj\Debug\05. GameOfPage.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. GameOfPage\obj\Debug\_05.GameOfPage.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\05. GameOfPage\obj\Debug\_05.GameOfPage.pdb

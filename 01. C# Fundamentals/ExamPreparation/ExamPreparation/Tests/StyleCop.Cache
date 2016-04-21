@@ -23,11 +23,14 @@
     </timestamps>
     <violations />
   </sourcecode>
+  <project key="-644827875">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="Tests.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
       <settingsFile>2016/04/14 12:16:35.341</settingsFile>
-      <sourceFile>2016/04/20 17:25:36.013</sourceFile>
+      <sourceFile>2016/04/21 11:04:02.054</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -46,7 +49,4 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="-644827875">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
 </stylecopresultscache>

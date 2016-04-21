@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03.  Enigmanation\bin\Debug\_03.Enigmanation.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03.  Enigmanation\bin\Debug\_03.Enigmanation.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03.  Enigmanation\bin\Debug\_03.Enigmanation.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03.  Enigmanation\obj\Debug\03.  Enigmanation.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03.  Enigmanation\obj\Debug\_03.Enigmanation.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\03.  Enigmanation\obj\Debug\_03.Enigmanation.pdb
