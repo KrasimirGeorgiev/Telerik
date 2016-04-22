@@ -1,10 +1,13 @@
 <stylecopresultscache>
   <version>12</version>
-  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+  <project key="852314259">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="GameOfPage.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/04/19 15:01:49.116</settingsFile>
-      <sourceFile>2016/04/19 15:01:36.677</sourceFile>
+      <settingsFile>2016/04/21 11:47:32.081</settingsFile>
+      <sourceFile>2016/04/21 13:30:19.280</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -21,16 +24,39 @@
       <StyleCop.CSharp.SpacingRules>2016/01/05 15:39:26.708</StyleCop.CSharp.SpacingRules>
       <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
     </timestamps>
-    <violations />
+    <violations>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>36</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>44</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseStringEmptyForEmptyStrings" ruleCheckId="SA1122">
+        <context>Use string.Empty rather than "".</context>
+        <line>34</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>68</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseStringEmptyForEmptyStrings" ruleCheckId="SA1122">
+        <context>Use string.Empty rather than "".</context>
+        <line>50</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
   </sourcecode>
-  <project key="-2043755215">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
-  <sourcecode name="ExRugs.cs" parser="StyleCop.CSharp.CsParser">
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/04/19 15:01:49.116</settingsFile>
-      <sourceFile>2016/04/21 11:15:22.197</sourceFile>
+      <settingsFile>2016/04/21 11:47:32.081</settingsFile>
+      <sourceFile>2016/04/21 11:47:18.386</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
