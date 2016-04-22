@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\04. DiamondTrolls\bin\Debug\_04.DiamondTrolls.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\04. DiamondTrolls\obj\Debug\04. DiamondTrolls.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\04. DiamondTrolls\bin\Debug\_04.DiamondTrolls.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\04. DiamondTrolls\bin\Debug\_04.DiamondTrolls.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\04. DiamondTrolls\obj\Debug\_04.DiamondTrolls.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\ExamPreparation\ExamPreparation\04. DiamondTrolls\obj\Debug\_04.DiamondTrolls.pdb
