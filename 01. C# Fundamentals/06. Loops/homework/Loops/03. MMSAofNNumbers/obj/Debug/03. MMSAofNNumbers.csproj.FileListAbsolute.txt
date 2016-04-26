@@ -3,3 +3,4 @@ F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\03. MMSAofN
 F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\03. MMSAofNNumbers\bin\Debug\_03.MMSAofNNumbers.pdb
 F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\03. MMSAofNNumbers\obj\Debug\_03.MMSAofNNumbers.exe
 F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\03. MMSAofNNumbers\obj\Debug\_03.MMSAofNNumbers.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\03. MMSAofNNumbers\obj\Debug\03. MMSAofNNumbers.csprojResolveAssemblyReference.cache

@@ -8,12 +8,12 @@
     {
         public static void Main()
         {
-            int numberOfElements = int.Parse(Console.ReadLine());
-            int[] elements = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            List<int> oddElements = new List<int>();
-            int oddProduct = 1;
-            List<int> evenElements = new List<int>();
-            int evenProduct = 1;
+            ulong numberOfElements = ulong.Parse(Console.ReadLine());
+            ulong[] elements = Console.ReadLine().Split().Select(ulong.Parse).ToArray();
+            List<ulong> oddElements = new List<ulong>();
+            ulong oddProduct = 1;
+            List<ulong> evenElements = new List<ulong>();
+            ulong evenProduct = 1;
             for (int i = 1, elementsLength = elements.Length; i <= elementsLength; i++)
             {
                 if (i % 2 != 0)

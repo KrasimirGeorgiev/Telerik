@@ -1,1 +1,6 @@
 F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\05. Calculate\bin\Debug\_05.Calculate.exe.config
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\05. Calculate\bin\Debug\_05.Calculate.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\05. Calculate\bin\Debug\_05.Calculate.pdb
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\05. Calculate\obj\Debug\05. Calculate.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\05. Calculate\obj\Debug\_05.Calculate.exe
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\Loops\05. Calculate\obj\Debug\_05.Calculate.pdb

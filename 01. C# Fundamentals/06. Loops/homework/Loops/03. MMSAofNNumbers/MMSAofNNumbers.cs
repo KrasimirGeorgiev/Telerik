@@ -6,23 +6,23 @@
     {
         public static void Main()
         {
-            int numbersCount = int.Parse(Console.ReadLine());
-            int min = int.MaxValue;
-            int max = int.MinValue;
-            long sum = 0L;
+            decimal numbersCount = decimal.Parse(Console.ReadLine());
+            decimal min = decimal.MaxValue;
+            decimal max = decimal.MinValue;
+            decimal sum = 0L;
             decimal average = 0M;
 
             for (int i = 0; i < numbersCount; i++)
             {
-                int currentNumber = int.Parse(Console.ReadLine());
+                decimal currentNumber = decimal.Parse(Console.ReadLine());
                 min = min > currentNumber ? currentNumber : min;
                 max = max < currentNumber ? currentNumber : max;
                 sum += currentNumber;
             }
 
-            average = (decimal)sum / numbersCount;
+            average = (decimal)sum / (decimal)numbersCount;
 
-            Console.WriteLine("min={0}\nmax={1}\nsum={2}\navg={3:F2}", min, max, sum, average);
+            Console.WriteLine("min={0:F2}\nmax={1:F2}\nsum={2:F2}\navg={3:F2}", min, max, sum, average);
         }
     }
 }

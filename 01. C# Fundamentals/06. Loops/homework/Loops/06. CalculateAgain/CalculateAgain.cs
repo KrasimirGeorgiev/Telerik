@@ -1,21 +1,22 @@
 ﻿namespace _06.CalculateAgain
 {
     using System;
+    using System.Numerics;
 
     public class CalculateAgain
     {
         public static void Main()
         {
-            long numberA = Factorial(int.Parse(Console.ReadLine()));
-            long numberB = Factorial(int.Parse(Console.ReadLine()));
-            decimal result = (decimal)numberA / numberB;
+            BigInteger numberA = Factorial(int.Parse(Console.ReadLine()));
+            BigInteger numberB = Factorial(int.Parse(Console.ReadLine()));
+            BigInteger result = numberA / numberB;
 
             Console.WriteLine("{0}", result);
         }
 
-        private static long Factorial(int n)
+        private static BigInteger Factorial(int n)
         {
-            long result = 1;
+            BigInteger result = (BigInteger)1;
             if (n == 0 || n == 1)
             {
                 return result;
