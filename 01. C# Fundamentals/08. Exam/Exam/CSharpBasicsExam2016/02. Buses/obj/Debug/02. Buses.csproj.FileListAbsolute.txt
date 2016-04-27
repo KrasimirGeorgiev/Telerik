@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\02. Buses\bin\Debug\_02.Buses.exe.config
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\02. Buses\bin\Debug\_02.Buses.exe
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\02. Buses\bin\Debug\_02.Buses.pdb
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\02. Buses\obj\Debug\02. Buses.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\02. Buses\obj\Debug\_02.Buses.exe
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\02. Buses\obj\Debug\_02.Buses.pdb

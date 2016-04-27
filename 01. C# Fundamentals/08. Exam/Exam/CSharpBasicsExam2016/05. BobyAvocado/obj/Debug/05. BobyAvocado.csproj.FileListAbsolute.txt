@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\05. BobyAvocado\bin\Debug\_05.BobyAvocado.exe.config
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\05. BobyAvocado\bin\Debug\_05.BobyAvocado.exe
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\05. BobyAvocado\bin\Debug\_05.BobyAvocado.pdb
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\05. BobyAvocado\obj\Debug\05. BobyAvocado.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\05. BobyAvocado\obj\Debug\_05.BobyAvocado.exe
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\05. BobyAvocado\obj\Debug\_05.BobyAvocado.pdb

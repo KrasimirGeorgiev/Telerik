@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\01. BirdsAndFeathers\bin\Debug\_01.BirdsAndFeathers.exe.config
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\01. BirdsAndFeathers\bin\Debug\_01.BirdsAndFeathers.exe
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\01. BirdsAndFeathers\bin\Debug\_01.BirdsAndFeathers.pdb
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\01. BirdsAndFeathers\obj\Debug\01. BirdsAndFeathers.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\01. BirdsAndFeathers\obj\Debug\_01.BirdsAndFeathers.exe
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\01. BirdsAndFeathers\obj\Debug\_01.BirdsAndFeathers.pdb

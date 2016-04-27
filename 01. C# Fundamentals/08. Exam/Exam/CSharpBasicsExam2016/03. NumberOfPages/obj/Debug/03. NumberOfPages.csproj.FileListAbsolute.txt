@@ -1,0 +1,6 @@
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\03. NumberOfPages\bin\Debug\_03.NumberOfPages.exe.config
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\03. NumberOfPages\bin\Debug\_03.NumberOfPages.exe
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\03. NumberOfPages\bin\Debug\_03.NumberOfPages.pdb
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\03. NumberOfPages\obj\Debug\03. NumberOfPages.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\03. NumberOfPages\obj\Debug\_03.NumberOfPages.exe
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\03. NumberOfPages\obj\Debug\_03.NumberOfPages.pdb

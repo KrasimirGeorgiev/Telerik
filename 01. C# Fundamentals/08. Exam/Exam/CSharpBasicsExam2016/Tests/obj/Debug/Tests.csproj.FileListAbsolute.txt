@@ -1,0 +1,7 @@
+F:\Programming\Telerik\Telerik\01. C# Part1\06. Loops\homework\CSharpBasicsExam2016\Tests\bin\Debug\Tests.exe.config
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\Tests\bin\Debug\Tests.exe.config
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\Tests\bin\Debug\Tests.exe
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\Tests\bin\Debug\Tests.pdb
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\Tests\obj\Debug\Tests.exe
+C:\Users\Krasimir\Desktop\C#BasicsExam\Exam\CSharpBasicsExam2016\Tests\obj\Debug\Tests.pdb
