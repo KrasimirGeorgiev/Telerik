@@ -1,6 +1,0 @@
-F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\001. CalculationProblem\bin\Debug\_001.CalculationProblem.exe.config
-F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\001. CalculationProblem\bin\Debug\_001.CalculationProblem.exe
-F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\001. CalculationProblem\bin\Debug\_001.CalculationProblem.pdb
-F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\001. CalculationProblem\obj\Debug\001. CalculationProblem.csprojResolveAssemblyReference.cache
-F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\001. CalculationProblem\obj\Debug\_001.CalculationProblem.exe
-F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\001. CalculationProblem\obj\Debug\_001.CalculationProblem.pdb
