@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\01. AllocateArray\bin\Debug\_01.AllocateArray.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\01. AllocateArray\bin\Debug\_01.AllocateArray.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\01. AllocateArray\bin\Debug\_01.AllocateArray.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\01. AllocateArray\obj\Debug\01. AllocateArray.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\01. AllocateArray\obj\Debug\_01.AllocateArray.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\01. AllocateArray\obj\Debug\_01.AllocateArray.pdb
