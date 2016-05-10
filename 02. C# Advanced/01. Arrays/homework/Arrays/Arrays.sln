@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. MaximalSumK", "06. Maxi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. SelectionSort", "07. SelectionSort\07. SelectionSort.csproj", "{672FBCC8-5AF9-4460-BA71-ED1727E2FB5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. MaximalSum", "08. MaximalSum\08. MaximalSum.csproj", "{E73DBDDA-869D-4760-9EDB-F8EE032321A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{672FBCC8-5AF9-4460-BA71-ED1727E2FB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{672FBCC8-5AF9-4460-BA71-ED1727E2FB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{672FBCC8-5AF9-4460-BA71-ED1727E2FB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73DBDDA-869D-4760-9EDB-F8EE032321A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73DBDDA-869D-4760-9EDB-F8EE032321A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73DBDDA-869D-4760-9EDB-F8EE032321A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73DBDDA-869D-4760-9EDB-F8EE032321A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

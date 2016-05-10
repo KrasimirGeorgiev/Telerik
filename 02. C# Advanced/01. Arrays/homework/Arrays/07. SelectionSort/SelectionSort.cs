@@ -18,12 +18,12 @@
 
         private static decimal[] SortArrWithSelectionSort(decimal[] arr)
         {
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr.Length - 1; i++)
             {
                 decimal firstElement = arr[i];
                 decimal min = firstElement;
                 int minIndex = i;
-                for (int j = i; j < arr.Length; j++)
+                for (int j = i + 1; j < arr.Length; j++)
                 {
                     decimal secondElement = arr[j];
                     if (secondElement < min)
