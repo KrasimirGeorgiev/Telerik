@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\06. MaximalSumK\bin\Debug\_06.MaximalSumK.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\06. MaximalSumK\bin\Debug\_06.MaximalSumK.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\06. MaximalSumK\bin\Debug\_06.MaximalSumK.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\06. MaximalSumK\obj\Debug\_06.MaximalSumK.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\06. MaximalSumK\obj\Debug\_06.MaximalSumK.pdb
