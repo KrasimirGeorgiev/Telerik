@@ -9,28 +9,20 @@
         {
             int n = int.Parse(Console.ReadLine());
             int k = int.Parse(Console.ReadLine());
-            decimal[] arr = new decimal[n];
+            int[] arr = new int[n];
+            int sum = 0;
             for (int i = 0; i < n; i++)
             {
-                arr[i] = decimal.Parse(Console.ReadLine());
+                arr[i] = int.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine(FindMaximalSumK(arr, k));
-        }
-
-        private static decimal FindMaximalSumK(decimal[] arr, int k)
-        {
-            decimal[] array = arr;
-            decimal sum = 0M;
-            for (int i = 0; i < k; i++)
+            Array.Sort(arr);
+            for (int i = n - 1; i >= n - k; i--)
             {
-                decimal currentMax = array.Max();
-                sum += currentMax;
-                int index = Array.IndexOf(array, currentMax);
-                array = array.Where((ent, idx) => idx != index).ToArray();
+                sum += arr[i];
             }
 
-            return sum;
+            Console.WriteLine(sum);
         }
     }
 }

@@ -7,45 +7,36 @@
     {
         public static void Main()
         {
-            int n = int.Parse(Console.ReadLine());
-            decimal[] arr = new decimal[n];
+            ushort n = ushort.Parse(Console.ReadLine());
+            int[] arr = new int[n];
             for (int i = 0; i < n; i++)
             {
-                arr[i] = decimal.Parse(Console.ReadLine());
+                arr[i] = int.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine(FindMostFrequentNumber(arr));
-        }
-
-        private static decimal FindMostFrequentNumber(decimal[] arr)
-        {
-            //// arr = arr.OrderBy(x => x);
-            int maxCount = 0;
-            decimal maxNumber = 0M;
-            int currentCount = 0;
-            decimal currentMaxNumber = 0M;
-            while (arr.Length > 0)
+            int count = 0;
+            int groupCount = 0;
+            int groupVal = 0;
+            var groups = arr.GroupBy(group => group);
+            foreach (var group in groups)
             {
-                currentMaxNumber = arr[0];
-                foreach (decimal number in arr)
+                if (count == 0)
                 {
-                    if (currentMaxNumber == number)
+                    groupCount = group.Count();
+                    groupVal = group.Key;
+                    count++;
+                }
+                else
+                {
+                    if (group.Count() > groupCount)
                     {
-                        currentCount++;
+                        groupCount = group.Count();
+                        groupVal = group.Key;
                     }
                 }
-
-                if (maxCount < currentCount)
-                {
-                    maxCount = currentCount;
-                    maxNumber = currentMaxNumber;
-                }
-
-                currentCount = 0;
-                arr = arr.Where((val, idx) => val != currentMaxNumber).ToArray();
             }
 
-            return maxNumber;
+            Console.WriteLine("{0} ({1} times)", groupVal, groupCount);
         }
     }
 }
