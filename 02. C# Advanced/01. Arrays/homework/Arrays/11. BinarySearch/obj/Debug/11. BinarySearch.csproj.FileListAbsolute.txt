@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\11. BinarySearch\obj\Debug\11. BinarySearch.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.pdb
