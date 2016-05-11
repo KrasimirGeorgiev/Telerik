@@ -11,44 +11,38 @@
             Console.WriteLine(CompareCharArraysLexicographically(firstArr, secondArr));
         }
 
-        private static char CompareCharArraysLexicographically(char[] firstArr, char[] secondArr) // Can have a problem with Uppercase and Lowercase letters
+        private static string CompareCharArraysLexicographically(char[] firstArr, char[] secondArr) // Can have a problem with Uppercase and Lowercase letters
         {
-            if (firstArr.Length < secondArr.Length)
+            string result = "=";
+            int n = Math.Min(firstArr.Length, secondArr.Length);
+            for (int i = 0; i < n; i++)
             {
-                return '<';
-            }
-            else if (secondArr.Length < firstArr.Length)
-            {
-                return '>';
-            }
-            else
-            {
-                for (int i = 0; i < firstArr.Length; i++)
+                if (firstArr[i] > secondArr[i])
                 {
-                    char firstArrCurrentChar = firstArr[i];
-                    char secondArrCurrentChar = firstArr[i];
-                    if (char.IsLetter(firstArrCurrentChar))
-                    {
-                        firstArrCurrentChar = char.ToLower(firstArrCurrentChar);
-                    }
+                    result = ">";
+                    break;
+                }
+                else if (firstArr[i] < secondArr[i])
+                {
+                    result = "<";
+                    break;
+                }
+            }
 
-                    if (char.IsLetter(secondArrCurrentChar))
-                    {
-                        secondArrCurrentChar = char.ToLower(secondArrCurrentChar);
-                    }
-
-                    if (firstArrCurrentChar > secondArrCurrentChar)
-                    {
-                        return '>';
-                    }
-                    else if (secondArrCurrentChar > firstArrCurrentChar)
-                    {
-                        return '<';
-                    }
+            if (result == "=")
+            {
+                if (firstArr.Length > secondArr.Length)
+                {
+                    result = ">";
                 }
 
-                return '=';
+                if (firstArr.Length < secondArr.Length)
+                {
+                    result = "<";
+                }
             }
+
+            return result;
         }
     }
 }
