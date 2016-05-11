@@ -1,10 +1,7 @@
 ﻿namespace _09.FrequentNumber
 {
     using System;
-    using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     public class FrequentNumber
     {
@@ -22,7 +19,7 @@
 
         private static decimal FindMostFrequentNumber(decimal[] arr)
         {
-            //arr = arr.OrderBy(x => x);
+            //// arr = arr.OrderBy(x => x);
             int maxCount = 0;
             decimal maxNumber = 0M;
             int currentCount = 0;
@@ -32,7 +29,10 @@
                 currentMaxNumber = arr[0];
                 foreach (decimal number in arr)
                 {
-                    currentCount = number == currentMaxNumber ? currentCount++ : currentCount; 
+                    if (currentMaxNumber == number)
+                    {
+                        currentCount++;
+                    }
                 }
 
                 if (maxCount < currentCount)
@@ -45,7 +45,7 @@
                 arr = arr.Where((val, idx) => val != currentMaxNumber).ToArray();
             }
 
-            return maxCount;
+            return maxNumber;
         }
     }
 }
