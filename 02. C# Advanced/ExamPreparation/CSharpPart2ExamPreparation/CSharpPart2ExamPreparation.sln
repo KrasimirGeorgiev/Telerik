@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001. CalculationProblem", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{2118F853-A6F7-43C6-91A9-929DB4A82A99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. DeCatCoding", "01. DeCatCoding\01. DeCatCoding.csproj", "{0A7B06AD-EEA3-4641-B9EF-6B1B5D0C2B62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2118F853-A6F7-43C6-91A9-929DB4A82A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2118F853-A6F7-43C6-91A9-929DB4A82A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2118F853-A6F7-43C6-91A9-929DB4A82A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7B06AD-EEA3-4641-B9EF-6B1B5D0C2B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7B06AD-EEA3-4641-B9EF-6B1B5D0C2B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7B06AD-EEA3-4641-B9EF-6B1B5D0C2B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7B06AD-EEA3-4641-B9EF-6B1B5D0C2B62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

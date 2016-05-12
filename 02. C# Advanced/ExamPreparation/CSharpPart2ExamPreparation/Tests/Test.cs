@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Tests
+﻿namespace Tests
 {
+    using System;
+    using System.Collections.Generic;
+
     public class Test
     {
         public static void Main(string[] args)
@@ -18,7 +15,7 @@ namespace Tests
         {
             Stack<string> reverseResult = new Stack<string>();
             long inputNumber = number;
-            string result = "";
+            string result = string.Empty;
 
             while (inputNumber != 0)
             {
