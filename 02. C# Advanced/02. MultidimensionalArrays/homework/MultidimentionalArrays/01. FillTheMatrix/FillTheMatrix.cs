@@ -1,16 +1,29 @@
 ﻿namespace _01.FillTheMatrix
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
     using System.Text;
-    using System.Threading.Tasks;
 
     public class FillTheMatrix
     {
         public static void Main()
         {
-            Console.WriteLine(MatrixAsString(MatrixTypeC(4)));
+            int n = int.Parse(Console.ReadLine());
+            char type = char.Parse(Console.ReadLine());
+            switch (type)
+            {
+                case 'a': Console.Write(MatrixAsString(MatrixTypeA(n)));
+                    break;
+                case 'b': Console.Write(MatrixAsString(MatrixTypeB(n)));
+                    break;
+                case 'c': Console.Write(MatrixAsString(MatrixTypeC(n)));
+                    break;
+                case 'd': Console.Write(MatrixAsString(MatrixTypeD(n)));
+                    break;
+
+                default:
+                    throw new ArgumentOutOfRangeException("In the main switch was entered invalide type for matrix");
+                    break;
+            }
         }
 
         private static int[,] MatrixTypeA(int n)
@@ -96,6 +109,84 @@
         private static int[,] MatrixTypeD(int n)
         {
             int[,] result = new int[n, n];
+            int count = 1;
+            int row = -1;
+            int col = 0;
+            int countSteps = 0;
+            int endCountSteps = PowerOf(n, 2);
+            char direction = 'd';
+            while (countSteps < endCountSteps)
+            {
+                switch (direction)
+                {
+                    case 'd':
+                        direction = 'r';
+                        for (int i = row + 1; i < n; i++)
+                        {
+                            if (result[i, col] != 0)
+                            {
+                                break;
+                            }
+
+                            result[i, col] = count;
+                            row = i;
+                            count++;
+                            countSteps++;
+                        }
+
+                        break;
+                    case 'r':
+                        direction = 'u';
+                        for (int i = col + 1; i < n; i++)
+                        {
+                            if (result[row, i] != 0)
+                            {
+                                break;
+                            }
+
+                            result[row, i] = count;
+                            col = i;
+                            count++;
+                            countSteps++;
+                        }
+
+                        break;
+                    case 'u':
+                        direction = 'l';
+                        for (int i = row - 1; i >= 0; i--)
+                        {
+                            if (result[i, col] != 0)
+                            {
+                                break;
+                            }
+
+                            result[i, col] = count;
+                            row = i;
+                            count++;
+                            countSteps++;
+                        }
+
+                        break;
+                    case 'l':
+                        direction = 'd';
+                        for (int i = col - 1; i >= 0; i--)
+                        {
+                            if (result[row, i] != 0)
+                            {
+                                break;
+                            }
+
+                            result[row, i] = count;
+                            col = i;
+                            count++;
+                            countSteps++;
+                        }
+
+                        break;
+                    default:
+                        throw new ArgumentOutOfRangeException("The switch in the MatrixTypeD has recieved a value that is not a allowed");
+                }
+            }
 
             return result;
         }
