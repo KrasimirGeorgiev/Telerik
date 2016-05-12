@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\02. MultidimensionalArrays\homework\MultidimentionalArrays\01. FillTheMatrix\bin\Debug\_01.FillTheMatrix.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\02. MultidimensionalArrays\homework\MultidimentionalArrays\01. FillTheMatrix\obj\Debug\01. FillTheMatrix.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\02. MultidimensionalArrays\homework\MultidimentionalArrays\01. FillTheMatrix\bin\Debug\_01.FillTheMatrix.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\02. MultidimensionalArrays\homework\MultidimentionalArrays\01. FillTheMatrix\bin\Debug\_01.FillTheMatrix.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\02. MultidimensionalArrays\homework\MultidimentionalArrays\01. FillTheMatrix\obj\Debug\_01.FillTheMatrix.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\02. MultidimensionalArrays\homework\MultidimentionalArrays\01. FillTheMatrix\obj\Debug\_01.FillTheMatrix.pdb
