@@ -1,1 +1,6 @@
 F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\10. FindSumInArray\bin\Debug\_10.FindSumInArray.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\10. FindSumInArray\bin\Debug\_10.FindSumInArray.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\10. FindSumInArray\bin\Debug\_10.FindSumInArray.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\10. FindSumInArray\obj\Debug\10. FindSumInArray.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\10. FindSumInArray\obj\Debug\_10.FindSumInArray.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\10. FindSumInArray\obj\Debug\_10.FindSumInArray.pdb

@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. BinarySearch", "11. Bin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. IndexOfLetters", "12. IndexOfLetters\12. IndexOfLetters.csproj", "{0C516151-C508-4844-8F1B-6BEC9C9963C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. MergeSort", "13. MergeSort\13. MergeSort.csproj", "{B3150206-CA7A-4054-93A1-897E047B95E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0C516151-C508-4844-8F1B-6BEC9C9963C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C516151-C508-4844-8F1B-6BEC9C9963C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C516151-C508-4844-8F1B-6BEC9C9963C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3150206-CA7A-4054-93A1-897E047B95E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3150206-CA7A-4054-93A1-897E047B95E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3150206-CA7A-4054-93A1-897E047B95E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3150206-CA7A-4054-93A1-897E047B95E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
