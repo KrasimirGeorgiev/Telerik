@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\16. SubsetWithSumS\bin\Debug\_16.SubsetWithSumS.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\16. SubsetWithSumS\bin\Debug\_16.SubsetWithSumS.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\16. SubsetWithSumS\bin\Debug\_16.SubsetWithSumS.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\16. SubsetWithSumS\obj\Debug\16. SubsetWithSumS.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\16. SubsetWithSumS\obj\Debug\_16.SubsetWithSumS.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\16. SubsetWithSumS\obj\Debug\_16.SubsetWithSumS.pdb
