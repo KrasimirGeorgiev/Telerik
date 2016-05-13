@@ -3,8 +3,8 @@
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/05/13 20:29:30.437</settingsFile>
-      <sourceFile>2016/05/13 19:32:21.740</sourceFile>
+      <settingsFile>2016/05/13 20:42:33.270</settingsFile>
+      <sourceFile>2016/05/13 20:40:35.256</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -23,11 +23,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <sourcecode name="SubsetWithSumS.cs" parser="StyleCop.CSharp.CsParser">
+  <sourcecode name="SubsetKWithSumS.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/05/13 20:29:30.437</settingsFile>
-      <sourceFile>2016/05/13 20:34:03.219</sourceFile>
+      <settingsFile>2016/05/13 20:42:33.270</settingsFile>
+      <sourceFile>2016/05/13 20:48:23.520</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -46,7 +46,7 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="-1643007553">
+  <project key="-573900488">
     <configuration>DEBUG;TRACE</configuration>
   </project>
 </stylecopresultscache>
