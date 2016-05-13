@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\14. QuickSort\bin\Debug\_14.QuickSort.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\14. QuickSort\bin\Debug\_14.QuickSort.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\14. QuickSort\bin\Debug\_14.QuickSort.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\14. QuickSort\obj\Debug\14. QuickSort.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\14. QuickSort\obj\Debug\_14.QuickSort.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\14. QuickSort\obj\Debug\_14.QuickSort.pdb
