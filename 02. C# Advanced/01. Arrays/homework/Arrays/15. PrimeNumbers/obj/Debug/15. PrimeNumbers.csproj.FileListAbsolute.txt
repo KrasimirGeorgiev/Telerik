@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\15. PrimeNumbers\bin\Debug\_15.PrimeNumbers.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\15. PrimeNumbers\bin\Debug\_15.PrimeNumbers.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\15. PrimeNumbers\bin\Debug\_15.PrimeNumbers.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\15. PrimeNumbers\obj\Debug\15. PrimeNumbers.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\15. PrimeNumbers\obj\Debug\_15.PrimeNumbers.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\15. PrimeNumbers\obj\Debug\_15.PrimeNumbers.pdb
