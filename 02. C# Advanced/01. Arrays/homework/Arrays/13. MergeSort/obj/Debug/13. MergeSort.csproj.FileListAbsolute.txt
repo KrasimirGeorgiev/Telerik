@@ -1,1 +1,6 @@
 F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\13. MergeSort\bin\Debug\_13.MergeSort.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\13. MergeSort\bin\Debug\_13.MergeSort.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\13. MergeSort\bin\Debug\_13.MergeSort.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\13. MergeSort\obj\Debug\13. MergeSort.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\13. MergeSort\obj\Debug\_13.MergeSort.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\01. Arrays\homework\Arrays\13. MergeSort\obj\Debug\_13.MergeSort.pdb

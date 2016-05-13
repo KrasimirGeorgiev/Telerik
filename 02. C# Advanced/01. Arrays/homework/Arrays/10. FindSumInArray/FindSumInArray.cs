@@ -42,3 +42,5 @@
 }
 
 // Write a program that finds in given array of integers a sequence of given sum S (if present).
+// Personal notes: this code recursively finds all permutations of the elements in the input array and checks 
+// if there are any sums that that are equal to the needed sum;
