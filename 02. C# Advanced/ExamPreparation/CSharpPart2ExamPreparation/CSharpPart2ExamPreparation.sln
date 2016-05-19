@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. DeCatCoding", "01. DeCa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. MultiverseCommunication", "01. MultiverseCommunication\01. MultiverseCommunication.csproj", "{8A6BDAA5-A8B4-4015-B860-154426B5556A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. MagicWords", "02. MagicWords\02. MagicWords.csproj", "{78F5E3CD-1CAC-4519-9DC2-D27F16FE506A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8A6BDAA5-A8B4-4015-B860-154426B5556A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A6BDAA5-A8B4-4015-B860-154426B5556A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A6BDAA5-A8B4-4015-B860-154426B5556A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F5E3CD-1CAC-4519-9DC2-D27F16FE506A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F5E3CD-1CAC-4519-9DC2-D27F16FE506A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F5E3CD-1CAC-4519-9DC2-D27F16FE506A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F5E3CD-1CAC-4519-9DC2-D27F16FE506A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

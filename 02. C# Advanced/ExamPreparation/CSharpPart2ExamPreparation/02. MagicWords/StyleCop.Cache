@@ -3,8 +3,8 @@
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/05/12 16:01:32.113</settingsFile>
-      <sourceFile>2016/03/13 14:33:14.417</sourceFile>
+      <settingsFile>2016/05/17 17:01:51.081</settingsFile>
+      <sourceFile>2016/05/17 17:01:37.728</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -23,14 +23,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="-1589282303">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
-  <sourcecode name="Test.cs" parser="StyleCop.CSharp.CsParser">
+  <sourcecode name="MagicWords.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/05/12 16:01:32.113</settingsFile>
-      <sourceFile>2016/05/19 12:50:53.368</sourceFile>
+      <settingsFile>2016/05/17 17:01:51.081</settingsFile>
+      <sourceFile>2016/05/18 16:08:42.581</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -49,4 +46,7 @@
     </timestamps>
     <violations />
   </sourcecode>
+  <project key="-941693789">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
 </stylecopresultscache>

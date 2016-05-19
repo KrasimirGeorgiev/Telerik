@@ -7,31 +7,10 @@
     {
         public static void Main(string[] args)
         {
-            long input = long.Parse(Console.ReadLine());
-            Console.WriteLine(DecimalToCatNumeral(input));
-        }
-
-        private static string DecimalToCatNumeral(long number)
-        {
-            Stack<string> reverseResult = new Stack<string>();
-            long inputNumber = number;
-            string result = string.Empty;
-
-            while (inputNumber != 0)
-            {
-                long remainingNumber = inputNumber % 23;
-                string remNumToCatNum = ((char)(remainingNumber + 'a')).ToString();
-                inputNumber /= 23;
-                reverseResult.Push(remNumToCatNum);
-            }
-
-            while (reverseResult.Count > 0)
-            {
-                string currentLetter = reverseResult.Pop();
-                result += currentLetter;
-            }
-
-            return result;
+            List<int> a = new List<int> { 1, 2, 3, 4, 5 };
+            a.Insert(5, 1);
+            a.RemoveAt(0);
+            Console.WriteLine(string.Join(", ", a));
         }
     }
 }
