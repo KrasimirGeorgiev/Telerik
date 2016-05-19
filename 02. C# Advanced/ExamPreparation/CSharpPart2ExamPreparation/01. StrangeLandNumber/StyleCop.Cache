@@ -1,8 +1,5 @@
 <stylecopresultscache>
   <version>12</version>
-  <project key="-425005830">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
@@ -26,11 +23,14 @@
     </timestamps>
     <violations />
   </sourcecode>
+  <project key="-425005830">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="StrangeLandNumber.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
       <settingsFile>2016/05/19 13:23:22.013</settingsFile>
-      <sourceFile>2016/05/19 13:39:49.130</sourceFile>
+      <sourceFile>2016/05/19 16:11:00.738</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>

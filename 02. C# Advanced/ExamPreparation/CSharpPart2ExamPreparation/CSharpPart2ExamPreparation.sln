@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Zerg", "01.Zerg\01.Zerg.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. StrangeLandNumber", "01. StrangeLandNumber\01. StrangeLandNumber.csproj", "{5C622A22-1654-42D1-BD65-F237D229E386}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. TRES4Numbers", "1. TRES4Numbers\01. TRES4Numbers.csproj", "{014447BF-0D78-4B58-97BB-3278142DE12B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5C622A22-1654-42D1-BD65-F237D229E386}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C622A22-1654-42D1-BD65-F237D229E386}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C622A22-1654-42D1-BD65-F237D229E386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014447BF-0D78-4B58-97BB-3278142DE12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014447BF-0D78-4B58-97BB-3278142DE12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014447BF-0D78-4B58-97BB-3278142DE12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014447BF-0D78-4B58-97BB-3278142DE12B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
