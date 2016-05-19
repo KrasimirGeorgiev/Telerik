@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\06. TriangleSurfaceByTwoSidesAndAngle\bin\Debug\_06.TriangleSurfaceByTwoSidesAndAngle.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\06. TriangleSurfaceByTwoSidesAndAngle\bin\Debug\_06.TriangleSurfaceByTwoSidesAndAngle.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\06. TriangleSurfaceByTwoSidesAndAngle\bin\Debug\_06.TriangleSurfaceByTwoSidesAndAngle.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\06. TriangleSurfaceByTwoSidesAndAngle\obj\Debug\06. TriangleSurfaceByTwoSidesAndAngle.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\06. TriangleSurfaceByTwoSidesAndAngle\obj\Debug\_06.TriangleSurfaceByTwoSidesAndAngle.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\06. TriangleSurfaceByTwoSidesAndAngle\obj\Debug\_06.TriangleSurfaceByTwoSidesAndAngle.pdb

@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\04. TriangleSurfaceBysideAndAltitude\bin\Debug\_04.TriangleSurfaceBysideAndAltitude.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\04. TriangleSurfaceBysideAndAltitude\bin\Debug\_04.TriangleSurfaceBysideAndAltitude.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\04. TriangleSurfaceBysideAndAltitude\bin\Debug\_04.TriangleSurfaceBysideAndAltitude.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\04. TriangleSurfaceBysideAndAltitude\obj\Debug\04. TriangleSurfaceBysideAndAltitude.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\04. TriangleSurfaceBysideAndAltitude\obj\Debug\_04.TriangleSurfaceBysideAndAltitude.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\04. TriangleSurfaceBysideAndAltitude\obj\Debug\_04.TriangleSurfaceBysideAndAltitude.pdb

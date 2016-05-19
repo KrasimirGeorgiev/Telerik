@@ -1,0 +1,5 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\Tests\bin\Debug\Tests.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\Tests\bin\Debug\Tests.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\Tests\bin\Debug\Tests.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\Tests\obj\Debug\Tests.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\Tests\obj\Debug\Tests.pdb

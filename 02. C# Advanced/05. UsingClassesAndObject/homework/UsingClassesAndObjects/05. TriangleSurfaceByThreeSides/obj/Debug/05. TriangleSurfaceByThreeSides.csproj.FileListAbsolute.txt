@@ -1,0 +1,1 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\05. UsingClassesAndObject\homework\UsingClassesAndObjects\05. TriangleSurfaceByThreeSides\bin\Debug\_05.TriangleSurfaceByThreeSides.exe.config
