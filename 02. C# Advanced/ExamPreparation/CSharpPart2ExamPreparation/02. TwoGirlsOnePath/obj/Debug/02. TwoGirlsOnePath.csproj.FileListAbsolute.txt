@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. TwoGirlsOnePath\bin\Debug\_02.TwoGirlsOnePath.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. TwoGirlsOnePath\bin\Debug\_02.TwoGirlsOnePath.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. TwoGirlsOnePath\bin\Debug\_02.TwoGirlsOnePath.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. TwoGirlsOnePath\obj\Debug\02. TwoGirlsOnePath.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. TwoGirlsOnePath\obj\Debug\_02.TwoGirlsOnePath.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. TwoGirlsOnePath\obj\Debug\_02.TwoGirlsOnePath.pdb
