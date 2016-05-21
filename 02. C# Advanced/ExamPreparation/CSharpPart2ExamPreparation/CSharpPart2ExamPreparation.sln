@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. BunnyFactory", "02. Bun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. TwoGirlsOnePath", "02. TwoGirlsOnePath\02. TwoGirlsOnePath.csproj", "{538F6E1E-98B1-4D04-8AA1-9E9580DE80BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. MovingLetters", "02. MovingLetters\02. MovingLetters.csproj", "{B726FCB9-7356-4B03-9DB3-42B9F9D63E18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{538F6E1E-98B1-4D04-8AA1-9E9580DE80BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{538F6E1E-98B1-4D04-8AA1-9E9580DE80BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{538F6E1E-98B1-4D04-8AA1-9E9580DE80BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B726FCB9-7356-4B03-9DB3-42B9F9D63E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B726FCB9-7356-4B03-9DB3-42B9F9D63E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B726FCB9-7356-4B03-9DB3-42B9F9D63E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B726FCB9-7356-4B03-9DB3-42B9F9D63E18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
