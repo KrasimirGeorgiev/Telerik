@@ -1,1 +1,6 @@
 F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. MovingLetters\bin\Debug\_02.MovingLetters.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. MovingLetters\bin\Debug\_02.MovingLetters.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. MovingLetters\bin\Debug\_02.MovingLetters.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. MovingLetters\obj\Debug\02. MovingLetters.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. MovingLetters\obj\Debug\_02.MovingLetters.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. MovingLetters\obj\Debug\_02.MovingLetters.pdb
