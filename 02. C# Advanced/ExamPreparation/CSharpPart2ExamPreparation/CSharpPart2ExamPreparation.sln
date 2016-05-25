@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. MovingLetters", "02. Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. EvenDifferences", "02. EvenDifferences\02. EvenDifferences.csproj", "{BB754151-18ED-4429-8A96-14131B10E490}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. IncreasingAbsoluteDifferences", "02. IncreasingAbsoluteDifferences\02. IncreasingAbsoluteDifferences.csproj", "{F7BB8E2A-1D30-4719-BB3A-3FE2BF8B1EE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{BB754151-18ED-4429-8A96-14131B10E490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB754151-18ED-4429-8A96-14131B10E490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB754151-18ED-4429-8A96-14131B10E490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7BB8E2A-1D30-4719-BB3A-3FE2BF8B1EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BB8E2A-1D30-4719-BB3A-3FE2BF8B1EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BB8E2A-1D30-4719-BB3A-3FE2BF8B1EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BB8E2A-1D30-4719-BB3A-3FE2BF8B1EE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

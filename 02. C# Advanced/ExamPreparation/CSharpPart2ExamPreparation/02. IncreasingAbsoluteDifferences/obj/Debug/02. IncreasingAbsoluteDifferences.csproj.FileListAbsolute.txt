@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. IncreasingAbsoluteDifferences\bin\Debug\_02.IncreasingAbsoluteDifferences.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. IncreasingAbsoluteDifferences\bin\Debug\_02.IncreasingAbsoluteDifferences.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. IncreasingAbsoluteDifferences\bin\Debug\_02.IncreasingAbsoluteDifferences.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. IncreasingAbsoluteDifferences\obj\Debug\02. IncreasingAbsoluteDifferences.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. IncreasingAbsoluteDifferences\obj\Debug\_02.IncreasingAbsoluteDifferences.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. IncreasingAbsoluteDifferences\obj\Debug\_02.IncreasingAbsoluteDifferences.pdb
