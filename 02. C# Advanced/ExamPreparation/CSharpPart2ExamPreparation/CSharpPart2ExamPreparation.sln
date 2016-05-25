@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. TwoGirlsOnePath", "02. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. MovingLetters", "02. MovingLetters\02. MovingLetters.csproj", "{B726FCB9-7356-4B03-9DB3-42B9F9D63E18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. EvenDifferences", "02. EvenDifferences\02. EvenDifferences.csproj", "{BB754151-18ED-4429-8A96-14131B10E490}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B726FCB9-7356-4B03-9DB3-42B9F9D63E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B726FCB9-7356-4B03-9DB3-42B9F9D63E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B726FCB9-7356-4B03-9DB3-42B9F9D63E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB754151-18ED-4429-8A96-14131B10E490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB754151-18ED-4429-8A96-14131B10E490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB754151-18ED-4429-8A96-14131B10E490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB754151-18ED-4429-8A96-14131B10E490}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

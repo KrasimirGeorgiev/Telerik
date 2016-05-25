@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. EvenDifferences\bin\Debug\_02.EvenDifferences.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. EvenDifferences\bin\Debug\_02.EvenDifferences.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. EvenDifferences\bin\Debug\_02.EvenDifferences.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. EvenDifferences\obj\Debug\02. EvenDifferences.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. EvenDifferences\obj\Debug\_02.EvenDifferences.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. EvenDifferences\obj\Debug\_02.EvenDifferences.pdb
