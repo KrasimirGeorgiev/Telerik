@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. EvenDifferences", "02. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. IncreasingAbsoluteDifferences", "02. IncreasingAbsoluteDifferences\02. IncreasingAbsoluteDifferences.csproj", "{F7BB8E2A-1D30-4719-BB3A-3FE2BF8B1EE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. BitShiftMatrix", "03. BitShiftMatrix\03. BitShiftMatrix.csproj", "{80C8B9C7-D4A7-4060-A685-512EEF7A67B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{F7BB8E2A-1D30-4719-BB3A-3FE2BF8B1EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7BB8E2A-1D30-4719-BB3A-3FE2BF8B1EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7BB8E2A-1D30-4719-BB3A-3FE2BF8B1EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80C8B9C7-D4A7-4060-A685-512EEF7A67B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C8B9C7-D4A7-4060-A685-512EEF7A67B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C8B9C7-D4A7-4060-A685-512EEF7A67B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C8B9C7-D4A7-4060-A685-512EEF7A67B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

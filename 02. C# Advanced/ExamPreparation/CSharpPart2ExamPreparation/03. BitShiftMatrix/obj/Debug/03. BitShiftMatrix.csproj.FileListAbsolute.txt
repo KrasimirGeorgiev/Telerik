@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. BitShiftMatrix\bin\Debug\_03.BitShiftMatrix.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. BitShiftMatrix\bin\Debug\_03.BitShiftMatrix.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. BitShiftMatrix\bin\Debug\_03.BitShiftMatrix.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. BitShiftMatrix\obj\Debug\03. BitShiftMatrix.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. BitShiftMatrix\obj\Debug\_03.BitShiftMatrix.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. BitShiftMatrix\obj\Debug\_03.BitShiftMatrix.pdb
