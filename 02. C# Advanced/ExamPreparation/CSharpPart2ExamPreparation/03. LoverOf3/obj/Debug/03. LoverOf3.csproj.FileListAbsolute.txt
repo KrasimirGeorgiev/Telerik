@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. LoverOf3\bin\Debug\_03.LoverOf3.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. LoverOf3\bin\Debug\_03.LoverOf3.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. LoverOf3\bin\Debug\_03.LoverOf3.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. LoverOf3\obj\Debug\03. LoverOf3.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. LoverOf3\obj\Debug\_03.LoverOf3.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. LoverOf3\obj\Debug\_03.LoverOf3.pdb
