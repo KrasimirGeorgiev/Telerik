@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. BitShiftMatrix", "03. B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. LoverOf3", "03. LoverOf3\03. LoverOf3.csproj", "{CDDE150B-6473-4574-AA90-B5F0FC5114B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. XPatterns", "03. Patterns\03. XPatterns.csproj", "{AE5F9370-619B-4B70-AE08-8751A4FE9A62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{CDDE150B-6473-4574-AA90-B5F0FC5114B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDDE150B-6473-4574-AA90-B5F0FC5114B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDDE150B-6473-4574-AA90-B5F0FC5114B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5F9370-619B-4B70-AE08-8751A4FE9A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5F9370-619B-4B70-AE08-8751A4FE9A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5F9370-619B-4B70-AE08-8751A4FE9A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5F9370-619B-4B70-AE08-8751A4FE9A62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
