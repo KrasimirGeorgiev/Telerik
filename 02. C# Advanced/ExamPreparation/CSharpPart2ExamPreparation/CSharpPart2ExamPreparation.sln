@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. LoverOf3", "03. LoverOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. XPatterns", "03. Patterns\03. XPatterns.csproj", "{AE5F9370-619B-4B70-AE08-8751A4FE9A62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Digits", "03. Digits\03. Digits.csproj", "{2EF5E9CE-DB7E-4B4B-8367-78B968A6C8FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{AE5F9370-619B-4B70-AE08-8751A4FE9A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE5F9370-619B-4B70-AE08-8751A4FE9A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE5F9370-619B-4B70-AE08-8751A4FE9A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF5E9CE-DB7E-4B4B-8367-78B968A6C8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF5E9CE-DB7E-4B4B-8367-78B968A6C8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF5E9CE-DB7E-4B4B-8367-78B968A6C8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF5E9CE-DB7E-4B4B-8367-78B968A6C8FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

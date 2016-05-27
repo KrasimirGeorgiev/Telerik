@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. Digits\bin\Debug\_03.Digits.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. Digits\bin\Debug\_03.Digits.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. Digits\bin\Debug\_03.Digits.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. Digits\obj\Debug\03. Digits.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. Digits\obj\Debug\_03.Digits.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\03. Digits\obj\Debug\_03.Digits.pdb
