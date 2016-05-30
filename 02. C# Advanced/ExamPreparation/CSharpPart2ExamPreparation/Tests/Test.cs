@@ -7,9 +7,6 @@
     {
         public static void Main()
         {
-            HashSet<int> set = new HashSet<int>();
-            set.Add(1);
-            Console.WriteLine(set.Contains(1));
         }
     }
 }
