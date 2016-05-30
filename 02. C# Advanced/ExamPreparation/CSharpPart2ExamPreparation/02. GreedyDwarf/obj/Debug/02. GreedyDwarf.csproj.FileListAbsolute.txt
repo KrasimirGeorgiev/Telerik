@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. GreedyDwarf\bin\Debug\_02.GreedyDwarf.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. GreedyDwarf\bin\Debug\_02.GreedyDwarf.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. GreedyDwarf\bin\Debug\_02.GreedyDwarf.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. GreedyDwarf\obj\Debug\02. GreedyDwarf.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. GreedyDwarf\obj\Debug\_02.GreedyDwarf.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\02. GreedyDwarf\obj\Debug\_02.GreedyDwarf.pdb

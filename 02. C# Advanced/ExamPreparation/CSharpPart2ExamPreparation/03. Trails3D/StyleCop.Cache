@@ -3,8 +3,8 @@
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/05/27 15:59:51.966</settingsFile>
-      <sourceFile>2016/05/27 15:59:40.605</sourceFile>
+      <settingsFile>2016/05/27 18:34:05.789</settingsFile>
+      <sourceFile>2016/05/27 18:33:42.470</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -23,11 +23,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <sourcecode name="Digits.cs" parser="StyleCop.CSharp.CsParser">
+  <sourcecode name="Trails3D.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/05/27 15:59:51.966</settingsFile>
-      <sourceFile>2016/05/27 18:30:40.452</sourceFile>
+      <settingsFile>2016/05/27 18:34:05.789</settingsFile>
+      <sourceFile>2016/05/30 12:47:38.150</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -46,7 +46,7 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="-894524540">
+  <project key="-921336342">
     <configuration>DEBUG;TRACE</configuration>
   </project>
 </stylecopresultscache>

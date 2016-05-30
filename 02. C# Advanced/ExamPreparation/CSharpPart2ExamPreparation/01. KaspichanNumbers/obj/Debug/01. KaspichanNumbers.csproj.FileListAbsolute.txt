@@ -1,0 +1,6 @@
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\01. KaspichanNumbers\bin\Debug\_01.KaspichanNumbers.exe.config
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\01. KaspichanNumbers\bin\Debug\_01.KaspichanNumbers.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\01. KaspichanNumbers\bin\Debug\_01.KaspichanNumbers.pdb
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\01. KaspichanNumbers\obj\Debug\01. KaspichanNumbers.csprojResolveAssemblyReference.cache
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\01. KaspichanNumbers\obj\Debug\_01.KaspichanNumbers.exe
+F:\Programming\Telerik\Telerik\02. C# Part2\ExamPreparation\CSharpPart2ExamPreparation\01. KaspichanNumbers\obj\Debug\_01.KaspichanNumbers.pdb
