@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript Literals</title>
+</head>
+<body>
+    <script>
+        var string = 'string';
+        var integer = 123;
+        var float = 123.3;
+        var boolean = true;
+        var func = function(){return;};
+        var obj = {name: 'JS', course: '1'};
+        var nullValue = null;
+        var undefinedValue = undefined;
+        var arr = [1, 2, 3];
+
+        var values = [string, integer, float, boolean, func, obj, nullValue, undefinedValue, arr];
+        function dataTypeAsString(data) {
+            var result = data;
+            result += ' is ' + typeof(data);
+            return result;
+        }
+
+        for(var value in values) {
+            console.log(dataTypeAsString(values[value]));
+        }
+    </script>
+</body>
+</html>
