@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Number as words</title>
+</head>
+<body>
+        <script>
+             function digitAsWord (str) {
+                switch(str) {
+                    case '0': return 'zero';
+                    case '1': return 'one';
+                    case '2': return 'two';
+                    case '3': return 'three';
+                    case '4': return 'four';
+                    case '5': return 'five';
+                    case '6': return 'six';
+                    case '7': return 'seven';
+                    case '8': return 'eight';
+                    case '9': return 'nine';                    
+                    default: return 'not a digit';
+                }
+            }
+
+            function numberAsWord(arr) {
+                let number = +arr[0], result = '';
+                if (number < 0 || 999 < number) {
+                    return 'the number should be between 0 and 999';
+                }
+
+                if (number > 99) {
+                    result += digitAsWord(((number / 100) | 0).toString()) + ' hundred';
+                    if (number % 100 !== 0) {
+                        result += ' and ';
+                    }
+                }
+
+                
+                
+                    if ((((number / 10) | 0) % 10) === 0) {
+                        if (number > 99 && number % 10 === 0) {
+                            
+                        } else {
+                            result += digitAsWord((number % 10).toString());
+                        }
+                    } else {
+                        let n = number % 100;
+                        if (10 <= n && n <= 20) {
+                            switch(n) {
+                                case 10: result += 'ten'; break;
+                                case 11: result += 'eleven'; break;
+                                case 12: result += 'twelve'; break;
+                                case 13: result += 'thirteen'; break;
+                                case 14: result += 'fourteen'; break;
+                                case 15: result += 'fifteen'; break;
+                                case 16: result += 'sixteen'; break;
+                                case 17: result += 'seventeen'; break;
+                                case 18: result += 'eighteen'; break;
+                                case 19: result += 'nineteen'; break;
+                                case 20: result += 'twenty'; break;
+                            }
+                        } else {
+                                switch (n / 10 | 0) {
+                                    case 2: result += 'twenty'; break;
+                                    case 3: result += 'thirty'; break;
+                                    case 4: result += 'forty'; break;
+                                    case 5: result += 'fifty'; break;
+                                    case 6: result += 'sixty'; break;
+                                    case 7: result += 'seventy'; break;
+                                    case 8: result += 'eighty'; break;
+                                    case 9: result += 'ninety'; break;
+                                }
+
+                                if (n % 10 !== 0) {
+                                    result += ' ' + digitAsWord((n % 10).toString());
+                                }
+                        }
+                    }
+
+                return result;
+            }
+
+            console.log(numberAsWord(['0']));
+            console.log(numberAsWord(['9']));
+            console.log(numberAsWord(['12']));
+            console.log(numberAsWord(['19']));
+            console.log(numberAsWord(['25']));
+            console.log(numberAsWord(['98']));
+            console.log(numberAsWord(['273']));
+            console.log(numberAsWord(['400']));
+            console.log(numberAsWord(['501']));
+            console.log(numberAsWord(['617']));
+            console.log(numberAsWord(['717']));
+            console.log(numberAsWord(['999']));
+            
+            
+        </script>
+</body>
+</html>

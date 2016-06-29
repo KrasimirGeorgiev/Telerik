@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The biggest of five numbers</title>
+</head>
+<body>
+        <script>
+            function biggestOfFiveNumbers(arr) {
+                let a, b, c, d, e;
+                a = +arr[0];
+                b = +arr[1];
+                c = +arr[2];
+                d = +arr[3];
+                e = +arr[4];
+                
+                return Math.max(a, Math.max(b, Math.max(c, Math.max(d, e))));
+            }
+
+            console.log(biggestOfFiveNumbers(['5', '2', '2', '4', '1']));
+            console.log(biggestOfFiveNumbers(['-2', '-22', '1', '0', '0']));
+            console.log(biggestOfFiveNumbers(['-2', '4', '3', '2', '0']));
+            console.log(biggestOfFiveNumbers(['0', '-2.5', '0', '5', '5']));
+            console.log(biggestOfFiveNumbers(['-3', '-0.5', '-1.1', '-2', '-0.1']));
+        </script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quadratic equation</title>
+</head>
+<body>
+        <script>
+            function findDiscriminant(a, b, c) {
+                return b * b - 4 * a * c;
+            }
+
+            function solveQuadraticEquation(arr) {
+                let a, b, c, x1, x2, d;
+                a = +arr[0];
+                b = +arr[1];
+                c = +arr[2];
+                d = findDiscriminant(a, b, c);
+                if (d === 0) {
+                    return 'x1=x2=' + (-b / (2 * a)).toFixed(2); 
+                } else if (d > 0) {
+                    return 'x1 =' + ((-b  - Math.sqrt(d))/ (2 * a)).toFixed(2) + '; x2=' + ((-b  + Math.sqrt(d))/ (2 * a)).toFixed(2); 
+                } else {
+                    return 'no real roots';
+                }
+            }
+
+            console.log(solveQuadraticEquation(['5', '2', '8']));
+            console.log(solveQuadraticEquation(['0.2', '9.572', '0.2']));
+            console.log(solveQuadraticEquation(['-0.5', '4', '-8']));
+        </script>
+</body>
+</html>

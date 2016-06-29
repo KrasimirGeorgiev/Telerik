@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exchange if greater</title>
+</head>
+<body>
+    <script>
+        function exchangeIfGreater(firstN, secondN) {
+            let n = Math.max(firstN.toString().length, secondN.toString().length);
+            n = numberOnPowerOf(10, n);
+            return firstN * n < secondN * n ? firstN + ' ' + secondN : secondN + ' ' + firstN; 
+        }
+
+        function numberOnPowerOf(number, power) {
+            let result = 1, i;
+            for (i = 0; i < power; i++) {
+                result *= number;
+            }
+
+            return result;
+        }
+
+        console.log(exchangeIfGreater(5.5, 4.5));
+    </script>
+</body>
+</html>

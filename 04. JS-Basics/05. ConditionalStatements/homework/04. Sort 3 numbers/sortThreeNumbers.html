@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sort of three numbers</title>
+</head>
+<body>
+        <script>
+            function printArrInDescendingOrder(arr) {
+                var resultArr = arr.sort(function(a, b) { return b - a });
+                return resultArr.join(" ");
+            }
+
+            console.log(printArrInDescendingOrder(['-1.1', '-0.5', '-0.1']));
+        </script>
+</body>
+</html>
