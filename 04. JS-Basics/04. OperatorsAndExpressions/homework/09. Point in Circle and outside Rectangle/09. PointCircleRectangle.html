@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Point circle rectangle</title>
+</head>
+<body>
+    <script>
+        function checkIfPointIsInK(x, y, cx, cy, r) {
+            var distance = Math.sqrt((x - cx) * (x - cx) + (y - cy) * (y - cy));
+            return distance <= r ? true : false;
+        }
+
+        function checkIfPointIsInRectangle(x, y, a, b, c, d) {
+            if ((x >= a && c <= c) && (y >= b && y <= d)) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+
+        function checkIfPointIsInRectangleOrK (x, y, cx, cy, r, a, b, c, d) {
+            var result;
+            result = checkIfPointIsInK(x, y, cx, cy, r) ? 'inside circle' : 'outside circle';
+            result += checkIfPointIsInRectangle(x, y, a, b, c, d) ? ' inside rectangle' : ' outside rectangle';
+            return result;
+        }
+
+        console.log(checkIfPointIsInRectangleOrK(0, 1, 1, 1, 1.5, -1, -1, 5, 1));
+    </script>
+</body>
+</html>

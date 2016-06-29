@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Third bit</title>
+</head>
+<body>
+    <script>
+        function isBitOnCertainPositionOne(number, position) {
+            return (number >> position) & 1
+        }
+
+        console.log(isBitOnCertainPositionOne(1024, 3) ? 1 : 0);
+    </script>
+</body>
+</html>

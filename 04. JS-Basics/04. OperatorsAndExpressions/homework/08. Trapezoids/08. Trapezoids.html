@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Trapezoids</title>
+</head>
+<body>
+    <script>
+        function trapezoidsArea(arr) {
+            var a, b, h;
+            a = +arr[0];
+            b = +arr[1];
+            h = +arr[2];
+            
+            return (h * ((a + b) / 2)).toFixed(7); 
+        }
+
+        console.log(trapezoidsArea(['2', '1', '33']));
+    </script>
+</body>
+</html>

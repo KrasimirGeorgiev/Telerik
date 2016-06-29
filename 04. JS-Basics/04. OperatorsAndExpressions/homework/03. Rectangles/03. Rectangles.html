@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rectangles</title>
+</head>
+<body>
+    <script>
+        function printAreaAndPerimeterOfRectangle(input) {
+            var width, height, area, p;
+            width = +input[0];
+            height = +input[1];
+            area = width * height;
+            p = 2 * width + 2 * height;
+            return area.toFixed(2) + ' ' + p.toFixed(2);
+        }
+
+        console.log(printAreaAndPerimeterOfRectangle(['2.5', '3']));
+    </script>
+</body>
+</html>

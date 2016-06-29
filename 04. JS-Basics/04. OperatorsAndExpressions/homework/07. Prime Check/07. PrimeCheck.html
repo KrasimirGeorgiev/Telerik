@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prime check</title>
+</head>
+<body>
+    <script>
+        function isPrime(n) {
+            var start = 2;
+            while(start <= Math.sqrt(n)) {
+                if (n % start++ === 0) {
+                    return false;
+                }
+            }
+                return n > 1;
+        }
+
+        console.log(isPrime(10));
+    </script>
+</body>
+</html>

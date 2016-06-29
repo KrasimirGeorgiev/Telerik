@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Point in a circle</title>
+</head>
+<body>
+    <script>
+        // Find point in k -> (X−X1)^2+(Y−Y1)^2 ≤ R^2
+        function isInside(x, y, cx, cy, r){
+            var distance =  Math.sqrt((x * x) + (y * y));
+
+            return (distance <= 2 ? 'yes' : 'no') + ' ' + distance.toFixed(2);
+        }
+
+        console.log(isInside(-2, 0, 0, 0, 2));
+        console.log(isInside(-1, 2, 0, 0, 2));
+        console.log(isInside(-1.5, -1.5, 0, 0, 2));
+        console.log(isInside(100, -30, 0, 0, 2));
+        console.log(isInside(0, 0, 0, 0, 2));
+        console.log(isInside(0.2, -0.8, 0, 0, 2));
+        console.log(isInside(0.9, -1.93, 0, 0, 2));
+        console.log(isInside(1, 1.655, 0, 0, 2));
+        console.log(isInside(0, 1, 0, 0, 2));        
+    </script>
+</body>
+</html>
