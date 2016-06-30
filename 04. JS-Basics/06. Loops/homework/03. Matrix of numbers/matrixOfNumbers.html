@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Matrix of numbers</title>
+</head>
+<body>
+    <script>
+        function printMatrixOfNumbers(arr) {
+            let n = +arr[0],
+                i,
+                j,
+                str;
+            for (i = 1; i <= n; i++) {
+                str = '';
+                for (j = i; j <= n + (i - 1); j++) {
+                    str += j;
+                    if (j !== n + (i - 1)) {
+                        str += ' '
+                    }
+                }
+
+                console.log(str);
+            }    
+        }
+
+        printMatrixOfNumbers(['4']);
+    </script>
+</body>
+</html>

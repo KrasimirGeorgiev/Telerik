@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Numbers</title>
+</head>
+<body>
+    <script>
+        function sequenceOfNumbersAsStr(arr) {
+            let n = +arr[0], 
+                i,
+                seq = '';
+            for (i = 1; i <= n; i++) {
+                seq += i;
+                if (i != n) {
+                    seq += ' ';
+                }
+            } 
+
+            return seq;
+        }
+
+        console.log(sequenceOfNumbersAsStr([10]));
+    </script>
+</body>
+</html>

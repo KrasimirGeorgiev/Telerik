@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hex to decimal</title>
+</head>
+<body>
+    <script>
+
+        function convertHexLettersToDiggits (r) {
+            let string = r[0];
+            let arr = [];
+            for (let i = 0, len = string.length; i < len; i++) {
+                let currentElement = string.charAt(i);
+                if (isNaN(currentElement)) {
+                    currentElement = currentElement.toLowerCase();
+                    arr.push(10 + (currentElement.charCodeAt(0) - 97));
+                } else {
+                    arr.push(+currentElement);
+                }
+            }
+
+            return arr;
+        }
+
+        // console.log(convertHexLettersToDiggits(['4ED528CBB4']));
+
+        function convertToDecimal (numbers, baseSystem) {
+            let result = 0,
+                len = numbers.length,
+                i,
+                count = 0;
+            for (i = len - 1; i >= 0; i--) {
+                let currentNumber = (+numbers[i]) * numberOnPowerOf(baseSystem, count);
+                result += currentNumber;
+                count++
+            }
+
+            return result;
+        }
+
+        function numberOnPowerOf(number, power) {
+            let result = 1;
+            for (let i = 0; i < power; i++) {
+                result *= number;
+            }
+
+            return result;
+        }
+
+        // console.log(numberOnPowerOf(16, 1));
+
+        console.log('4ED528CBB4 -> ' + convertToDecimal(convertHexLettersToDiggits(['4ED528CBB4']), 16));
+    </script>
+</body>
+</html>

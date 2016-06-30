@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lexicographically smallest</title>
+</head>
+<body>
+    <script>
+        function getProperties(obj) {
+            let min = 0,
+                max = 0,
+                property;
+            for(property in obj) {
+                if(!min) {
+                    min = property;
+                }
+
+                if (!max) {
+                    max = property;
+                }
+
+                if (property < min) {
+                    min = property;
+                }
+
+                if (max < property) {
+                    max = property
+                }
+            }  
+
+            console.log('min: ' + min);
+            console.log('min: ' + max);                
+        }
+
+        console.log('window');
+        getProperties(window);
+        console.log('navigator');
+        getProperties(navigator);
+        console.log('document');
+        getProperties(document);
+        
+    </script>
+</body>
+</html>

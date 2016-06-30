@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>mmsa</title>
+</head>
+<body>
+    <script>
+        function printMinMaxSumAndAvg(arr) {
+            let min = Math.min(), 
+                max = Math.max(),
+                sum = 0, 
+                avg = 1, 
+                len = arr.length,
+                i;
+            for(i = 0; i < len; i++) {
+                let curr = +arr[i];
+                min = curr < min ? curr : min;
+                max = max < curr ? curr : max; 
+                sum += curr;
+            }
+
+            avg = sum / len;
+            
+            console.log('min=' + min.toFixed(2) + '\nmax=' + max.toFixed(2) + '\nsum=' + sum.toFixed(2) + '\navg=' + avg.toFixed(2));
+        }
+
+        printMinMaxSumAndAvg(['2', '-1', '4']);
+    </script>
+</body>
+</html>
