@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Canvas BootCamp Part 3 - Line Styles for Lines and Strokes</title>
+    <style>
+        body { margin: 40px; background: #666; }
+        #my_canvas { background: #FFF; border: #000 1px solid; }
+    </style>        
+</head>
+<body>
+    <canvas id="my_canvas" width="700px" height="500px">
+
+    </canvas>
+
+    <script>
+        var leather = new Image();
+        leather.src = "leather.jpg";
+        function draw() {
+            var ctx = document.getElementById('my_canvas').getContext('2d');
+
+            ctx.lineWidth = 20;
+            ctx.lineCap = "round"; //(butt, round, square)  the edges
+            ctx.lineJoin = "miter"; // otrqzva zaostrqneto na sg1vkata s1deto se s1edinqvat liniite 
+            ctx.lineJoin = "round"; // (bevel, round, miter) sg1vkata k1deto se s1edinqvat liniite
+            ctx.miterLimit = 3;
+            ctx.setLineDash([20, 10]);
+            ctx.lineDashOffset = 60; // ! with this you can simulate mooving (ant movment for example)
+            // ctx.getLineDash(); -> returns a copy of the linedash pattern
+
+            ctx.beginPath();
+            ctx.moveTo(150, 150);
+            ctx.lineTo(240, 240);
+            ctx.lineTo(300, 40);
+            ctx.stroke();
+        }
+
+        window.onload = draw;
+    </script>
+</body>
+</html>

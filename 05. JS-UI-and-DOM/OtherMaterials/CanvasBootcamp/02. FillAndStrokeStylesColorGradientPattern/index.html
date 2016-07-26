@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Canvas BootCamp Part 2 - Fill and Stroke Styles Color Gradient Pattern</title>
+    <style>
+        body { margin: 40px; background: #666; }
+        #my_canvas { background: #FFF; border: #000 1px solid; }
+    </style>        
+</head>
+<body>
+    <canvas id="my_canvas" width="700px" height="500px">
+
+    </canvas>
+
+    <script>
+        var leather = new Image();
+        leather.src = "leather.jpg";
+        function draw() {
+            var ctx = document.getElementById('my_canvas').getContext('2d');
+            // alert(ctx.canvas.id + " | " + ctx.canvas.width + " | " + ctx.canvas.height);    
+            // ctx.fillStyle = color || hex || rgba() || gradient || pattern
+            // var gradient = ctx.createLinearGradient(x0, y0, x1, y1);
+            // var gradient = ctx.createRadialGradient(x0, y0, r0, x1, y1, r1);
+            var g1 = ctx.createLinearGradient(0, 0, 200, 0); // s tezi nasochvame v kakwa posoka e gradienta !! p1rvite dve opredelqt poziciqta sprqmo canvasa a ne elementa, taka che e dobre da zadadem poziciqta na elementa
+            g1.addColorStop(0, "magenta");
+            g1.addColorStop(0.5, "yellow");
+            g1.addColorStop(1, "black");
+            ctx.fillStyle =  g1;//"rgba(0, 200, 0, 0.4)";
+            ctx.strokeStyle = "red";
+            ctx.lineWidth = 10; // the width of the stroke
+            ctx.fillRect(0, 0, 150, 150);
+            ctx.strokeRect(0, 0, 150, 150);
+
+            var g2 = ctx.createRadialGradient(350, 100, 0, 350, 100, 200); // s tezi nasochvame v kakwa posoka e gradienta !! p1rvite dve opredelqt poziciqta sprqmo canvasa a ne elementa, taka che e dobre da zadadem poziciqta na elementa
+            g2.addColorStop(0, "pink");
+            g2.addColorStop(0.5, "blue");
+            g2.addColorStop(1, "orange");
+            ctx.fillStyle =  g2;//"rgba(0, 200, 0, 0.4)";
+            ctx.strokeStyle = "green";
+            ctx.lineWidth = 5; // the width of the stroke
+            ctx.fillRect(250, 0, 200, 200);
+            ctx.strokeRect(250, 0, 200, 200);
+
+            var pattern = ctx.createPattern(leather, "repeat");
+            ctx.fillStyle = pattern;
+            ctx.fillRect(0, 250, 200, 200);
+            ctx.lineWidth = 20;
+            ctx.strokeStyle = g1;
+            ctx.strokeRect(0, 250, 200, 200);
+            ctx.fill();
+        }
+
+        window.onload = draw;
+    </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Canvas BootCamp Part 1 - Rectangle Methods</title>
+    <style>
+        body { margin: 40px; background: #666; }
+        #my_canvas { background: #FFF; border: #000 1px solid; }
+    </style>        
+</head>
+<body>
+    <canvas id="my_canvas" width="400px" height="300px">
+
+    </canvas>
+
+    <script>
+        function draw() {
+            var ctx = document.getElementById('my_canvas').getContext('2d');
+            // alert(ctx.canvas.id + " | " + ctx.canvas.width + " | " + ctx.canvas.height);    
+            ctx.fillStyle = "magenta";
+            ctx.fillRect(20, 20, 100, 100);  // x, y, width, height
+            ctx.strokeRect(20, 20, 100, 100);  
+            ctx.fillRect(200, 200, 50, 50);  
+            ctx.strokeRect(200, 200, 50, 50);
+            ctx.clearRect(0, 0, 100, 100); // x, y, width, height -> kvadratna g1ba koqto zachinstwa kolkoto zadadem 
+}
+
+        window.onload = draw;
+    </script>
+</body>
+</html>
