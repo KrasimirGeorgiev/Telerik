@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Task 1 - Just a table</title>
+</head>
+<body>
+  <div id="wrapper"></div>
+  <script id="gsm-table" type="text/x-handlebars-template">
+      <table class="items-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            {{#headers}}
+            <th>{{this}}</th>
+            {{/headers}}
+          </tr>
+        </thead>
+        <tbody>
+          {{#items}}
+          <tr>
+            <td>{{@index}}</td>
+            {{#each this}}
+            <td>{{this}}</td>
+            {{/each}}
+          </tr>
+          {{/items}}
+        </tbody>
+    </table>
+  </script>
+  <script src="libs\handlebars-v4.0.5.js"></script>
+  <script>
+        var data = {
+        headers : ['Vendor', 'Model', 'OS'],
+        items : [{
+          col1: 'Nokia',
+          col2: 'Lumia 920',
+          col3: 'Windows Phone'
+        }, {
+          col1: 'LG',
+          col2: 'Nexus 5',
+          col3: 'Android'
+        }, {
+          col1: 'Apple',
+          col2: 'iPhone 6',
+          col3: 'iOS'
+        }]
+      };
+
+      var html = document.getElementById('gsm-table').innerHTML;
+      var tableTemplate = Handlebars.compile(html);
+      var tableResult = tableTemplate(data);
+      document.getElementById('wrapper').innerHTML = tableResult;
+  </script>
+</body>
+</html>
