@@ -1,0 +1,25 @@
+Recursion
+
+	- what is it?
+		-> Recursion is when a method calls itself (directly on indirectly - through other mothods)
+		-> Recursion should have a bottom
+
+		! Combinations with and without repetitions could be easily generated with recursion
+		! Backtracking is a class of algorithms for finging all solutions to some computational problem (e.g. filng all paths form Sofia to Varna)
+			-> It is usually implemented recursively
+			-> At each step we try all perspective possibilities to generate a sulution
+			! -> Backtacking has exponentioal running time!
+
+
+	- When to use and when NOT to use recursion
+		- Avoid recursion when an obvious iterative algorithm exists (examples: factorial, Fibonacci numbers)
+		- Use recursion for combinatorial algorithm where at each step you need to recursively explore more than one possible continuation
+			-> Examples: permutation, all paths in labirinth
+
+
+		Example of bad recurion is generating fibonaci numbers (the same value is calculated many many times), it's best to use dynamic optimization in this case
+		The recursive algorithm could be made faster if the already fibonacci numbers when calculated were writen in an array and used when needed
+		-> interesting reading https://www.nayuki.io/page/fast-fibonacci-algorithms
+		-> If you have only one recursive call in the body of revursive method, it can directly becom iterative(like calculating factorial)
+
+		!!! Recursion if very good for permutations, combinations, variations
