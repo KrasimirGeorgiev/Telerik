@@ -1,0 +1,6 @@
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\01a. Factorial\bin\Debug\_01a.Factorial.exe.config
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\01a. Factorial\bin\Debug\_01a.Factorial.exe
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\01a. Factorial\bin\Debug\_01a.Factorial.pdb
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\01a. Factorial\obj\Debug\01a. Factorial.csprojResolveAssemblyReference.cache
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\01a. Factorial\obj\Debug\_01a.Factorial.exe
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\01a. Factorial\obj\Debug\_01a.Factorial.pdb

@@ -23,3 +23,7 @@ Recursion
 		-> If you have only one recursive call in the body of revursive method, it can directly becom iterative(like calculating factorial)
 
 		!!! Recursion if very good for permutations, combinations, variations
+
+	_____________________________
+	
+	How many different ways can you choose k T-shirts from a colllection of n T-shirts? -> n! / (k!*(n-k)!);
