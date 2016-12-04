@@ -1,21 +1,29 @@
 ﻿namespace _01.RecursiveSimulationOfLoops
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
     using System.Text;
-    using System.Threading.Tasks;
 
     public class SimulationOfLoops
     {
         public static void Main()
         {
-
+            var sb = new StringBuilder();
+            Console.WriteLine(PrintLoops(0, 2, string.Empty, sb));
         }
 
-        private static void PrintNestedLops(int n)
+        public static StringBuilder PrintLoops(int counter, int n, string str, StringBuilder sb)
         {
-            
+            if (counter == n)
+            {
+                return sb.AppendLine(str);
+            }
+
+            for (int i = 1; i <= n; i++)
+            {
+                PrintLoops(counter + 1, n, str + " " + i, sb);
+            }
+
+            return sb;
         }
     }
 }

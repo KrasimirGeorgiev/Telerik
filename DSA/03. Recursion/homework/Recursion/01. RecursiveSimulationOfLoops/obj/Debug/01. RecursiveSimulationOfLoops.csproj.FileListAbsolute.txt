@@ -1,1 +1,6 @@
 F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\01. RecursiveSimulationOfLoops\bin\Debug\_01.RecursiveSimulationOfLoops.exe.config
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\01. RecursiveSimulationOfLoops\bin\Debug\_01.RecursiveSimulationOfLoops.exe
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\01. RecursiveSimulationOfLoops\bin\Debug\_01.RecursiveSimulationOfLoops.pdb
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\01. RecursiveSimulationOfLoops\obj\Debug\01. RecursiveSimulationOfLoops.csprojResolveAssemblyReference.cache
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\01. RecursiveSimulationOfLoops\obj\Debug\_01.RecursiveSimulationOfLoops.exe
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\01. RecursiveSimulationOfLoops\obj\Debug\_01.RecursiveSimulationOfLoops.pdb
