@@ -3,8 +3,8 @@
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/12/03 12:28:43.938</settingsFile>
-      <sourceFile>2016/12/03 11:37:27.298</sourceFile>
+      <settingsFile>2016/12/05 13:58:34.042</settingsFile>
+      <sourceFile>2016/12/05 13:57:41.061</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -23,11 +23,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <sourcecode name="SimulationOfLoops.cs" parser="StyleCop.CSharp.CsParser">
+  <sourcecode name="CombinationsWithDuplicates.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/12/03 12:28:43.938</settingsFile>
-      <sourceFile>2016/12/04 18:50:47.008</sourceFile>
+      <settingsFile>2016/12/05 13:58:34.042</settingsFile>
+      <sourceFile>2016/12/05 17:39:08.908</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -46,7 +46,7 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="1257489359">
+  <project key="-1352327282">
     <configuration>DEBUG;TRACE</configuration>
   </project>
 </stylecopresultscache>
