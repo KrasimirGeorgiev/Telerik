@@ -1,0 +1,6 @@
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\04. GeneratePermutations\bin\Debug\_04.GeneratePermutations.exe.config
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\04. GeneratePermutations\bin\Debug\_04.GeneratePermutations.exe
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\04. GeneratePermutations\bin\Debug\_04.GeneratePermutations.pdb
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\04. GeneratePermutations\obj\Debug\04. GeneratePermutations.csprojResolveAssemblyReference.cache
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\04. GeneratePermutations\obj\Debug\_04.GeneratePermutations.exe
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\04. GeneratePermutations\obj\Debug\_04.GeneratePermutations.pdb
