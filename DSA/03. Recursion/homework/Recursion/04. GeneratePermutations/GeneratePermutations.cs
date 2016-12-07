@@ -1,14 +1,11 @@
 ﻿namespace _04.GeneratePermutations
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     public class GeneratePermutations
     {
-        public static int[] arr = new int[] { 1, 2, 3 };
+        private static int[] arr = new int[] { 1, 2, 3 };
+
         public static void Main()
         {
             GeneratePermutationsUsingHeap(3, arr);

@@ -1,0 +1,6 @@
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\06. CheckIfAWordIsPalindrome\bin\Debug\_06.CheckIfAWordIsPalindrome.exe.config
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\06. CheckIfAWordIsPalindrome\bin\Debug\_06.CheckIfAWordIsPalindrome.exe
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\06. CheckIfAWordIsPalindrome\bin\Debug\_06.CheckIfAWordIsPalindrome.pdb
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\06. CheckIfAWordIsPalindrome\obj\Debug\06. CheckIfAWordIsPalindrome.csprojResolveAssemblyReference.cache
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\06. CheckIfAWordIsPalindrome\obj\Debug\_06.CheckIfAWordIsPalindrome.exe
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\06. CheckIfAWordIsPalindrome\obj\Debug\_06.CheckIfAWordIsPalindrome.pdb

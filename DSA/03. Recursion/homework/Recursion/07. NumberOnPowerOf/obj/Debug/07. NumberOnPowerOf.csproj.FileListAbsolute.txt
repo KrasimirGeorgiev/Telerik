@@ -1,0 +1,1 @@
+F:\Programming\Git\Telerik\DSA\03. Recursion\homework\Recursion\07. NumberOnPowerOf\bin\Debug\_07.NumberOnPowerOf.exe.config

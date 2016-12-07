@@ -3,8 +3,8 @@
   <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/12/05 17:40:50.813</settingsFile>
-      <sourceFile>2016/12/05 17:40:32.214</sourceFile>
+      <settingsFile>2016/12/06 14:07:36.732</settingsFile>
+      <sourceFile>2016/12/06 09:57:59.442</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -23,11 +23,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <sourcecode name="CombinationsWithoutDuplicates.cs" parser="StyleCop.CSharp.CsParser">
+  <sourcecode name="GeneratePermutations.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2016/01/05 15:39:26.708</styleCop>
-      <settingsFile>2016/12/05 17:40:50.813</settingsFile>
-      <sourceFile>2016/12/05 17:54:29.754</sourceFile>
+      <settingsFile>2016/12/06 14:07:36.732</settingsFile>
+      <sourceFile>2016/12/06 19:50:02.953</sourceFile>
       <parser>2016/01/05 15:39:26.708</parser>
       <StyleCop.CSharp.DocumentationRules>2016/01/05 15:39:26.708</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>232654840</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -46,7 +46,7 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="-1051353016">
+  <project key="120412653">
     <configuration>DEBUG;TRACE</configuration>
   </project>
 </stylecopresultscache>
