@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. GeneratingVariations", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. CheckIfAWordIsPalindrome", "06. CheckIfAWordIsPalindrome\06. CheckIfAWordIsPalindrome.csproj", "{B277CD3D-9F05-407C-A527-45D077E02262}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. NumberOnPowerOf", "07. NumberOnPowerOf\07. NumberOnPowerOf.csproj", "{3CBD4EED-B71F-4FD8-8593-9DCD929BB4CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B277CD3D-9F05-407C-A527-45D077E02262}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B277CD3D-9F05-407C-A527-45D077E02262}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B277CD3D-9F05-407C-A527-45D077E02262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CBD4EED-B71F-4FD8-8593-9DCD929BB4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CBD4EED-B71F-4FD8-8593-9DCD929BB4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CBD4EED-B71F-4FD8-8593-9DCD929BB4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CBD4EED-B71F-4FD8-8593-9DCD929BB4CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
