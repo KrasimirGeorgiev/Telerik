@@ -1,0 +1,6 @@
+F:\Programming\Git\Telerik\DSA\05. SortingAlgorithms\homework\project\bin\Debug\SortingHomework.exe.config
+F:\Programming\Git\Telerik\DSA\05. SortingAlgorithms\homework\project\bin\Debug\SortingHomework.exe
+F:\Programming\Git\Telerik\DSA\05. SortingAlgorithms\homework\project\bin\Debug\SortingHomework.pdb
+F:\Programming\Git\Telerik\DSA\05. SortingAlgorithms\homework\project\obj\Debug\SortingHomework.csprojResolveAssemblyReference.cache
+F:\Programming\Git\Telerik\DSA\05. SortingAlgorithms\homework\project\obj\Debug\SortingHomework.exe
+F:\Programming\Git\Telerik\DSA\05. SortingAlgorithms\homework\project\obj\Debug\SortingHomework.pdb
