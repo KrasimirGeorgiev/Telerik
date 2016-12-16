@@ -1,0 +1,6 @@
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\Tests\bin\Debug\Tests.exe.config
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\Tests\bin\Debug\Tests.exe
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\Tests\bin\Debug\Tests.pdb
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\Tests\obj\Debug\Tests.exe
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\Tests\obj\Debug\Tests.pdb
