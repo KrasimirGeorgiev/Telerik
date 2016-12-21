@@ -1,0 +1,1 @@
+F:\Programming\Git\Telerik\C#OOP\01. Defining Classes - Part 1\homework\DefiningClasses Part1\DefiningClassesTask\bin\Debug\DefiningClassesTask.exe.config
