@@ -1,0 +1,6 @@
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\05. ZigZagLines\bin\Debug\_05.ZigZagLines.exe.config
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\05. ZigZagLines\bin\Debug\_05.ZigZagLines.exe
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\05. ZigZagLines\bin\Debug\_05.ZigZagLines.pdb
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\05. ZigZagLines\obj\Debug\05. ZigZagLines.csprojResolveAssemblyReference.cache
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\05. ZigZagLines\obj\Debug\_05.ZigZagLines.exe
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\05. ZigZagLines\obj\Debug\_05.ZigZagLines.pdb

@@ -10,7 +10,8 @@
     {
         public static void Main()
         {
-            Console.WriteLine();
+            char symbol = (char)(5 + '0');
+            Console.WriteLine(symbol);
         }
     }
 }

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Deviders", "03. Devider
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. LineOfColoredBalls", "04. LineOfColoredBalls\04. LineOfColoredBalls.csproj", "{0905265A-8E81-4DD3-A7C0-78F409B05056}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. ZigZagLines", "05. ZigZagLines\05. ZigZagLines.csproj", "{81A1A1C8-8653-47F3-AE49-2E94A99D338C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0905265A-8E81-4DD3-A7C0-78F409B05056}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0905265A-8E81-4DD3-A7C0-78F409B05056}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0905265A-8E81-4DD3-A7C0-78F409B05056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A1A1C8-8653-47F3-AE49-2E94A99D338C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A1A1C8-8653-47F3-AE49-2E94A99D338C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A1A1C8-8653-47F3-AE49-2E94A99D338C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A1A1C8-8653-47F3-AE49-2E94A99D338C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

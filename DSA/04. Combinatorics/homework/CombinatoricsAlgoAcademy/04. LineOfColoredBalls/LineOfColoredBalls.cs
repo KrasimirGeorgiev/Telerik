@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Numerics;
-
-namespace _04.LineOfColoredBalls
+﻿namespace _04.LineOfColoredBalls
 {
-    class LineOfColoredBalls
+    using System;
+    using System.Collections.Generic;
+    using System.Numerics;
+
+    public class LineOfColoredBalls
     {
-        static void Main()
+        public static void Main()
         {
             Dictionary<int, int> ballsAndCount = new Dictionary<int, int>();
             string input = Console.ReadLine();
