@@ -1,0 +1,6 @@
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\04. LineOfColoredBalls\bin\Debug\_04.LineOfColoredBalls.exe.config
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\04. LineOfColoredBalls\bin\Debug\_04.LineOfColoredBalls.exe
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\04. LineOfColoredBalls\bin\Debug\_04.LineOfColoredBalls.pdb
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\04. LineOfColoredBalls\obj\Debug\04. LineOfColoredBalls.csprojResolveAssemblyReference.cache
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\04. LineOfColoredBalls\obj\Debug\_04.LineOfColoredBalls.exe
+F:\Programming\Git\Telerik\DSA\04. Combinatorics\homework\CombinatoricsAlgoAcademy\04. LineOfColoredBalls\obj\Debug\_04.LineOfColoredBalls.pdb

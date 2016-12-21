@@ -6,7 +6,7 @@
     using System.Text;
     using System.Threading.Tasks;
 
-    public class Tests
+    public class Test
     {
         public static void Main()
         {
