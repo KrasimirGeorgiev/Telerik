@@ -1,0 +1,6 @@
+F:\Programming\Git\Telerik\Exercises\Exercises\01. PerimeterOfSquaresInARectangle\bin\Debug\_01.PerimeterOfSquaresInARectangle.exe.config
+F:\Programming\Git\Telerik\Exercises\Exercises\01. PerimeterOfSquaresInARectangle\bin\Debug\_01.PerimeterOfSquaresInARectangle.exe
+F:\Programming\Git\Telerik\Exercises\Exercises\01. PerimeterOfSquaresInARectangle\bin\Debug\_01.PerimeterOfSquaresInARectangle.pdb
+F:\Programming\Git\Telerik\Exercises\Exercises\01. PerimeterOfSquaresInARectangle\obj\Debug\01. PerimeterOfSquaresInARectangle.csprojResolveAssemblyReference.cache
+F:\Programming\Git\Telerik\Exercises\Exercises\01. PerimeterOfSquaresInARectangle\obj\Debug\_01.PerimeterOfSquaresInARectangle.exe
+F:\Programming\Git\Telerik\Exercises\Exercises\01. PerimeterOfSquaresInARectangle\obj\Debug\_01.PerimeterOfSquaresInARectangle.pdb
